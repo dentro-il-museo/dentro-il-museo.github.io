@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+<!-- we import arjs version without NFT but with marker + location based support -->
+<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style type="text/css">
+
+
+  <style type="text/css">
+
+	body {   margin-left: 0px;
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+  		}
+
+
+		#Wrapper {
+    display: block;
+    height: 100%;
+    width: 100%;
+    top: auto;
+
+		}
+
+
+	.container {
+
+    background-color: #FFFFFF;
+    display: grid;
+    float: left;
+    height: 100%;
+    width: 100%;
+	min-width: 30em;
+	background-repeat: no-repeat;
+    overflow: hidden;
+    border-collapse: collapse;
+
+	}
+
+
+	.cornica {
+	  background-image: url("png/cornica.png");
+	  position: absolute;
+	  left: 0px;
+	  top: 0px;
+	  width: 2191px;
+		max-width: 100%;
+		min-width: 30em;
+		background-repeat: no-repeat;
+	  height: 620px;
+	  z-index: 4;
+	}
+
+
+
+.logo {
+  background-image: url("png/logo.png");
+  position: absolute;
+  left: 78px;
+  top: 30px;
+  width: 132px;
+	max-width: 100%;
+	min-width: 30em;
+	background-repeat: no-repeat;
+  height: 59px;
+  z-index: 14;
+}
+
+
+
+.ARMERIA_REALE {
+  background-image: url("png/ARMERIA REALE.png");
+  position: absolute;
+  left: 1500px;
+  top: 30px;
+  width: 253px;
+	max-width: 100%;
+	min-width: 30em;
+	background-repeat: no-repeat;
+  height: 59px;
+  z-index: 18;
+}
+
+
+.INQUADRA_LA_TUA_CARTA {
+  background-image: url("png/INQUADRA LA TUA CARTA.png");
+  position: absolute;
+  left: 850px;
+  top: 40px;
+  width: 162px;
+	max-width: 100%;
+	min-width: 30em;
+	background-repeat: no-repeat;
+  height: 20px;
+  z-index: 17;
+}
+
+
+
+
+.ITA {
+  background-image: url("png/ITA.png");
+  position: absolute;
+  left: 52px;
+  top: 919px;
+  width: 68px;
+	max-width: 100%;
+  min-width: 30em;
+  background-repeat: no-repeat;
+  height: 62px;
+  z-index: 4;
+}
+
+a.ITA:hover {
+  background-image: url("png/ITA copia.png");
+  position: absolute;
+  left: 52px;
+  top: 919px;
+  width: 68px;
+	max-width: 100%;
+  height: 62px;
+  z-index: 5;
+}
+
+
+.CURIOSITA_ {
+  background-image: url("png/CURIOSITA'.png");
+  position: absolute;
+  left: 1499px;
+  top: 919px;
+  width: 138px;
+	max-width: 100%;
+  min-width: 30em;
+  background-repeat: no-repeat;
+  height: 62px;
+  z-index: 9;
+}
+
+.CURIOSITA__SCRITTA {
+  background-image: url("png/CURIOSITA' SCRITTA.png");
+  position: absolute;
+  left: 1353px;
+  top: 644px;
+  width: 385px;
+	max-width: 100%;
+  background-repeat: no-repeat;
+  height: 337px;
+  z-index: 10;
+}
+
+a.CURIOSITA_:hover {
+  background-image: url("png/CURIOSITA' copia.png");
+  position: absolute;
+  left: 1486px;
+  top: 906px;
+  width: 163px;
+	max-width: 100%;
+  min-width: 30em;
+  background-repeat: no-repeat;
+  height: 87px;
+  z-index: 7;
+}
+
+	.X {
+  background-image: url("png/X.png");
+  position: absolute;
+  left: 1359px;
+  top: 655px;
+  width: 18px;
+	max-width: 100%;
+  height: 18px;
+  z-index: 13;
+}
+
+.X > a:hover {
+  background-image: url("png/X copia.png");
+  position: absolute;
+  left: 1359px;
+  top: 655px;
+  width: 18px;
+	max-width: 100%;
+  height: 18px;
+  z-index: 15;
+}
+
+
+
+
+   #id01{
+	   display: none
+		   }
+
+</style>
+<link href="css/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
+<link href="jQueryAssets/jquery.ui.core.min.css" rel="stylesheet" type="text/css">
+<link href="jQueryAssets/jquery.ui.theme.min.css" rel="stylesheet" type="text/css">
+<link href="jQueryAssets/jquery.ui.button.min.css" rel="stylesheet" type="text/css">
+<script src="jQueryAssets/jquery-1.11.1.min.js"></script>
+<script src="jQueryAssets/jquery.ui-1.10.4.button.min.js"></script>
+</head>
+
+<body>
+
+
+    <a-scene vr-mode-ui="enabled: false" embedded arjs='sourceType:webcam;'>
+
+        <a-marker type="pattern" url="/patterns/pattern-marker.patt">
+            <a-entity
+            position="0 0 0"
+            scale="0.05 0.05 0.05"
+            obj-model="obj: url(/media/collana.obj);mtl: url(/media/collana.mtl);"
+            animation="property: rotation; dur: 6000; to: 0 360 0; loop: true; easing: linear;"
+            > </a-entity>
+        </a-marker>
+
+        <a-entity camera></a-entity>
+
+    </a-scene>
+
+<main class="container">
+<div class="cornica" id="cornica" url="png/cornica.png"></div>
+
+	  <div class="">
+	  <a class="logo" id="logo" href="https://www.museireali.beniculturali.it" target="_blank"></a></div>
+
+	  <div class="">
+	  <a class="ARMERIA_REALE" id="ARMERIA_REALE" url="png/ARMERIA_REALE.png" href="https://progettogruppo15.wixsite.com/dentroilmuseo" target="_blank"></a></div>
+
+	  <div class="INQUADRA_LA_TUA_CARTA" id="INQUADRA_LA_TUA_CARTA" url="png/INQUADRA_LA_TUA_CARTA.png"></div>
+
+
+<!--<div ><a href="esercizioDiM:ENG.html"-->
+<!--				 id="ITA" class="ITA" url="png/ITA_.png"></a></div>-->
+
+
+  <!-- Trigger/Open the Modal -->
+<div class=""><a onclick="document.getElementById('id01').style.display='block'"
+				 id="CURIOSITA_" class="CURIOSITA_" url="png/CURIOSITA_.png"></a></div>
+
+<!-- The Modal -->
+<div id="id01" class="w3-modal">
+  <div class="w3-modal-content">
+    <div class="w3-container">
+      <span onclick="document.getElementById('id01').style.display='none'"
+      class="X" url="png/X.png"></span>
+<div class="CURIOSITA__SCRITTA" url="png/CURIOSITA_SCRITTA.png" ></div>
+
+    </div>
+  </div>
+</div>
+
+
+	</main>
+
+
+</body>
+</html>
