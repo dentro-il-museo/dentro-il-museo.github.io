@@ -1,0 +1,91 @@
+# Rhino
+newmtl po01
+Ka 1.0000 1.0000 1.0000
+Kd 0.3451 0.4510 0.8000
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 57.3750
+map_Kd porch01_L_porch_A_BaseColor.jpg
+map_Bump porch01_L_porch_A_Normal.jpg
+newmtl main
+Ka 1.0000 1.0000 1.0000
+Kd 0.8000 0.8000 0.8000
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 57.3750
+map_Kd main_L_main_BaseColor.jpg
+map_Bump main_L_main_Normal.jpg
+newmtl leg
+Ka 1.0000 1.0000 1.0000
+Kd 0.8000 0.5765 0.4314
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 57.3750
+map_Kd leg_L_leg_BaseColor.jpg
+map_Bump leg_L_leg_Normal.jpg
+newmtl hand
+Ka 1.0000 1.0000 1.0000
+Kd 0.8000 0.2471 0.5843
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 57.3750
+map_Kd hand_L_glove_BaseColor.jpg
+map_Bump hand_L_glove_Normal.jpg
+newmtl clothing
+Ka 1.0000 1.0000 1.0000
+Kd 0.5098 0.8000 0.5608
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 57.3750
+map_Kd clothes_L_clothes_BaseColor.jpg
+map_Bump clothes_L_clothes_Normal.jpg
+newmtl arm
+Ka 1.0000 1.0000 1.0000
+Kd 0.8000 0.8000 0.8000
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 57.3750
+map_Kd arm_L_arm_BaseColor.jpg
+map_Bump arm_L_arm_Normal.jpg
+newmtl po02
+Ka 1.0000 1.0000 1.0000
+Kd 0.6392 0.0745 0.5020
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 245.0000
+map_Kd porch-02_L_Material_BaseColor.jpg
+map_Bump porch-02_L_Material_Normal.jpg
+newmtl helm
+Ka 1.0000 1.0000 1.0000
+Kd 0.8000 0.6549 0.3137
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 57.3750
+map_Kd helm_L_helm_L_BaseColor.jpg
+map_Bump helm_L_helm_L_Normal.jpg
+newmtl cloak_and_foot
+Ka 1.0000 1.0000 1.0000
+Kd 0.5961 0.8000 0.3647
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 57.3750
+map_Kd foot-and-cloak_L_cloak_BaseColor.jpg
+map_Bump foot-and-cloak_L_cloak_Normal.jpg
+newmtl sword
+Ka 1.0000 1.0000 1.0000
+Kd 0.8000 0.4235 0.6627
+Ks 0.4980 0.4980 0.4980
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 57.3750
+map_Kd sword_L_sword_BaseColor.jpg
+map_Bump sword_L_sword_Normal.jpg
