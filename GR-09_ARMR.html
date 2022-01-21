@@ -1,26 +1,24 @@
 <!DOCTYPE html>
 <html>
-<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
-<!-- we import arjs version without NFT but with marker + location based support -->
-<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+<script src="http://aframe.io/releases/1.0.4/afame.min.js"></script>
+<script src="http://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
 
 <head>
     <link rel="stylesheet" href="styles/styles.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+    <Link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
 </head>
 
 <body>
 
-    <button class="button">Welcome</button>
+    <button class="button"info</button>
 
     <a-scene vr-mode-ui="enabled: false" embedded arjs>
 
-       <a-marker type="pattern" url="GR_09/patt3/pattern-marker.patt">
+       <a-marker type="pattern" url="patterns/pattern-markerG9.patt">
            <a-entity
             position="0 0 0"
-            scale="1 1 1"
-            obj-model="obj: url(GR_09/media2/3D_Aremeria Reale.obj);mtl: url(GR_09/media2/3D_Aremeria Reale.mtl);"
-            animation="property: rotation; dur: 6000; to: 0 360 0; loop: true; easing: linear;"
+            scale="2 2 2"
+            obj-model="obj:obj: url(GR_09/mediap/plan_GR09.obj);mtl: url(GR_09/mediap/plan_GR09.mtl);"
             > </a-entity>
         </a-marker>
 
