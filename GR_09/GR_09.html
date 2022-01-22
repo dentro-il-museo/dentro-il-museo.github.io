@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-<script src="https://aframe.io/releases/1.0.4/afame.min.js"></script>
+<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+<!-- we import arjs version without NFT but with marker + location based support -->
 <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
 
 <head>
@@ -10,16 +11,15 @@
 
 <body>
 
-    <button class="button"info</button>
+    <button class="button">WELCOME TO THE ROYAL MUSEUMS VIRTUAL EXPERIENCE</button>
 
     <a-scene vr-mode-ui="enabled: false" embedded arjs>
 
-       <a-marker type="pattern" url="pattern/pattern-marker.patt">
+       <a-marker type="pattern" url="GR_09/pattern/pattern-marker.patt">
            <a-entity
             position="0 0 0"
-            scale="4 4 4"
-            obj-model="obj: url(/media/VittorioEmanuele.obj); mtl: url(/media/VittorioEmanuele.mtl);"
-            animation="property: rotation; dur: 6000; to: 0 360 0; loop: true; easing: linear;"
+            scale="0.5 0.5 0.5"
+            obj-model="obj: url(GR_09/mediap/plan_GR09.obj);mtl: url(GR_09/mediap/plan_GR09.mtl);"
             > </a-entity>
         </a-marker>
 
