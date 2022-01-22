@@ -1,0 +1,15 @@
+# Blender MTL File: 'Sketchfab_2020_07_18_20_59_09.blend'
+# Material Count: 1
+
+newmtl TEST
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.048174 0.028075 0.002243
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump /Users/Documents/Blender/Curved Sword/Materials/NEW NEW/U_normal.png
+map_Kd /Users/Documents/Blender/Curved Sword/Materials/NEW NEW/U_color.png
+refl /Users/Documents/Blender/Curved Sword/Materials/NEW NEW/U_metal.png
