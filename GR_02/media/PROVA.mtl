@@ -1,0 +1,25 @@
+# Rhino
+newmtl Horse_bump
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Horse_bump.jpg
+newmtl Translucent Glass Safety
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 0.5000
+Ns 0.0000
+map_Kd Translucent_Glass_Saftey.jpg
+newmtl Horse_diff
+Ka 0.0000 0.0000 0.0000
+Kd 0.8314 0.8235 0.8235
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Horse_diff.jpg
