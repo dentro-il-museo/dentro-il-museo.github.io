@@ -11,13 +11,16 @@
 
 <body>
 
-        <a-scene vr-mode-ui="enabled: false" embedded arjs>
+    <button class="button">Info</button>
 
-        <a-marker type="pattern" url="patterns/pattern-PLAN_AR_3.patt">
+    <a-scene vr-mode-ui="enabled: false" embedded arjs>
+
+        <a-marker type="pattern" url="patterns/pattern-Logo_DIM_white.patt">
             <a-entity
             position="0 0 0"
-            scale="0.5 0.5 0.5"
-            obj-model="obj: url(/media/Sala4.obj);mtl: url(/media/Sala4.mtl);"
+            scale="4 4 4"
+            obj-model="obj: url(/media/HelmetTX.obj);mtl: url(/media/HelmetTX.mtl);"
+            animation="property: rotation; dur: 6000; to: 0 360 0; loop: true; easing: linear;"
             > </a-entity>
         </a-marker>
 
@@ -26,4 +29,4 @@
     </a-scene>
 
 </body>
-</html>
+</html
