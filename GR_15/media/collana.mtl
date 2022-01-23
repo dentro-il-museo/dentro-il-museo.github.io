@@ -1,0 +1,16 @@
+# Rhino
+newmtl Metal Corrugated Shiny
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Metal_Corrogated_Shiny.jpg
+newmtl diffuse_0
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
