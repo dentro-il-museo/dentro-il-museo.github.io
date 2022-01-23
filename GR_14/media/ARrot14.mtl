@@ -6,13 +6,20 @@ Ks 1.0000 0.0000 0.0000
 Tf 0.0000 0.0000 0.0000
 d 1.0000
 Ns 63.7500
-newmtl Material-Material-FrontColor__imported_
+newmtl Gray Sandblasted Plastic
 Ka 0.0000 0.0000 0.0000
-Kd 0.2588 0.2431 0.2471
-Ks 0.2588 0.2431 0.2471
+Kd 0.7451 0.7451 0.7451
+Ks 0.0000 0.0000 0.0000
 Tf 0.0000 0.0000 0.0000
 d 1.0000
 Ns 0.0000
+newmtl Gray Glass (1)
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.8627 0.8627 0.8627
+Tf 0.0000 0.0000 0.0000
+d 0.0000
+Ns 220.3443
 newmtl Material-Material-Material.003
 Ka 0.0000 0.0000 0.0000
 Kd 0.8000 0.8000 0.8000
@@ -21,6 +28,13 @@ Tf 0.0000 0.0000 0.0000
 d 1.0000
 Ns 0.0000
 map_Kd punga punga wood f1614.jpg
+newmtl Material-Material-FrontColor__imported_
+Ka 0.0000 0.0000 0.0000
+Kd 0.2588 0.2431 0.2471
+Ks 0.2588 0.2431 0.2471
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
 newmtl Material-Material-Material.008
 Ka 0.0000 0.0000 0.0000
 Kd 0.8000 0.8000 0.8000
@@ -44,18 +58,10 @@ Ks 1.0000 0.0000 0.0000
 Tf 0.0000 0.0000 0.0000
 d 1.0000
 Ns 102.7649
-newmtl Light Gray Textured Opaque Plastic (Grit)
-Ka 0.0000 0.0000 0.0000
-Kd 0.9020 0.9020 0.9020
-Ks 0.0000 0.0000 0.0000
-Tf 0.0000 0.0000 0.0000
-d 1.0000
-Ns 17.0632
-map_Bump bump_grit.png
 newmtl Gray Glass
 Ka 0.0000 0.0000 0.0000
 Kd 0.0000 0.0000 0.0000
-Ks 0.6157 0.6157 0.6157
+Ks 0.1647 0.1647 0.1647
 Tf 0.0000 0.0000 0.0000
 d 0.0000
-Ns 157.4519
+Ns 42.7019
