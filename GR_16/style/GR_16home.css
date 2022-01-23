@@ -6,7 +6,7 @@ body {
   
   #testo{
   left: 8%;
-  width: 80%;
+  width: 30%;
   top: 100px;
   position:fixed;
   border: none;
@@ -21,7 +21,7 @@ body {
 
 .button_1 {
   left: 5%;
-  width: 50%;
+  width: 30%;
   top: 200px;
   position:fixed;
   border: none;
@@ -37,8 +37,8 @@ body {
 
 .button_2 {
   left: 5%;
-  width: 50%;
-  top: 230px;
+  width: 30%;
+  top: 260px;
   position:fixed;
   border: none;
   color: black;
@@ -53,8 +53,8 @@ body {
 
 .button_3 {
   left: 5%;
-  width: 50%;
-  top: 260px;
+  width: 30%;
+  top: 290px;
   position:fixed;
   border: none;
   color: black;
@@ -69,8 +69,8 @@ body {
 
 .button_4 {
   left: 5%;
-  width: 50%;
-  top: 290px;
+  width: 30%;
+  top: 320px;
   position:fixed;
   border: none;
   color: black;
@@ -86,7 +86,7 @@ body {
 .button_video {
   left: 5%;
   width: 50%;
-  top: 350px;
+  top: 380px;
   position:fixed;
   border: none;
   color: black;
