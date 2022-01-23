@@ -1,0 +1,258 @@
+# Rhino
+newmtl 2b
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd 7b.png
+newmtl Color M06
+Ka 0.0000 0.0000 0.0000
+Kd 0.3373 0.3373 0.3373
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl diffuse_250_250_250_255
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl Vetro grigio
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 0.0000
+Ns 255.0000
+newmtl Color_M00
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl Translucent Glass Gray
+Ka 0.0000 0.0000 0.0000
+Kd 0.5020 0.5020 0.5020
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 0.5000
+Ns 0.0000
+map_Kd Sono strane queste spade, vero_.png
+newmtl Iroko
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Iroko_100_DP.jpg
+newmtl Color E01
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 0.8000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl Translucent Glass Dark Green
+Ka 0.0000 0.0000 0.0000
+Kd 0.2431 0.3569 0.0196
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 0.5000
+Ns 0.0000
+map_Kd Sono strane queste spade, vero_.png
+newmtl Translucent Glass Gold
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 0.9961 0.1020
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 0.6000
+Ns 0.0000
+map_Kd Sono strane queste spade, vero_.png
+newmtl Color D07
+Ka 0.0000 0.0000 0.0000
+Kd 0.6000 0.4471 0.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl Translucent Glass Tinted]1
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 0.4800
+Ns 0.0000
+map_Kd Translucent_Glass_Tinted.jpg
+newmtl Translucent Glass Corrugated
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 0.8000
+Ns 0.0000
+map_Kd Sono strane queste spade, vero_.png
+newmtl Wood Veneer 01
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Sono strane queste spade, vero_.png
+newmtl REGINA.png
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd rdk$0200-0200-159FE659.tiff
+newmtl Color E05
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 0.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl Translucent Glass Sky Reflection
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 0.5200
+Ns 0.0000
+map_Kd Sono strane queste spade, vero_.png
+newmtl Color M09
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Livello 6.png
+newmtl schermo.png (1)
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Sono strane queste spade, vero_.png
+newmtl OTTAVA OPERA.png
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Sono strane queste spade, vero_.png
+newmtl ramav QR Code.png
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Sono strane queste spade, vero_.png
+newmtl Glass
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 0.7093
+Ns 170.6821
+map_Kd rdk$0200-0200-159FE659.tiff
+newmtl Vuoi sapere un     segreto_
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Vuoi sapere un     segreto_.png
+newmtl 8c
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd 8c.png
+newmtl qrr
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd qrr.png
+newmtl Livello 6
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Livello 6.png
+newmtl Ti va di  girare il mondo_
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Ti va di  girare il mondo_.png
+newmtl Sono strane queste spade, vero_
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Sono strane queste spade, vero_.png
+newmtl SCAN.png
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Sono strane queste spade, vero_.png
+newmtl schermo.png (3)
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Livello 6.png
+newmtl Regina_orizz.png
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Livello 6.png
+newmtl SCAN.png (3)
+Ka 0.0000 0.0000 0.0000
+Kd 0.4941 0.4941 0.4941
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Livello 6.png
+newmtl Indosseresti questa collana_
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd     Indosseresti questa collana_.png
