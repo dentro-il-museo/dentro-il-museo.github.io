@@ -1,0 +1,60 @@
+# Rhino
+newmtl Material-Material-_auto_1.841
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 0.0000 0.0000
+Ks 1.0000 0.0000 0.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 102.7649
+newmtl Material-Material-Plastic__3_
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 0.0000 0.0000
+Ks 1.0000 0.0000 0.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 63.7500
+newmtl Gray Sandblasted Plastic
+Ka 0.0000 0.0000 0.0000
+Kd 0.7333 0.7333 0.6824
+Ks 0.0000 0.0000 0.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl Turquoise Glass
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 0.6980 0.6980 0.6980
+Tf 0.0000 0.0000 0.0000
+d 0.0000
+Ns 177.7440
+newmtl Material-Material-Material.003
+Ka 0.0000 0.0000 0.0000
+Kd 0.8000 0.8000 0.8000
+Ks 0.8000 0.8000 0.8000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd punga punga wood f1614.jpg
+newmtl Material-Material-FrontColor__imported_
+Ka 0.0000 0.0000 0.0000
+Kd 0.2588 0.2431 0.2471
+Ks 0.2588 0.2431 0.2471
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl Material-Material-Material.008
+Ka 0.0000 0.0000 0.0000
+Kd 0.8000 0.8000 0.8000
+Ks 0.8000 0.8000 0.8000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd lato 1.png
+newmtl Material-Material-Material
+Ka 0.0000 0.0000 0.0000
+Kd 0.8000 0.8000 0.8000
+Ks 0.8000 0.8000 0.8000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd lato 2.png
