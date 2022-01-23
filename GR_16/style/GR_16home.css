@@ -1,6 +1,7 @@
 body {
   margin : 0px;
   overflow: hidden;
+  background-color: coral;
   }
   
   #testo{
@@ -9,7 +10,10 @@ body {
   top: 100px;
   position:fixed;
   border: none;
-  color: black;
+  color: lightgray;
+  font-family: 'Times New Roman', serif;
+  font-size: 15px;
+  font-weight: bold;
   text-align: center;
   text-decoration: none;
   border-radius:50px;
@@ -23,6 +27,9 @@ body {
   border: none;
   color: black;
   background-color: #lightgrey;
+  font-family: 'Times New Roman', serif;
+  font-size: 15px;
+  font-weight: bold;
   text-align: center;
   text-decoration: none;
   border-radius:50px;
@@ -36,7 +43,10 @@ body {
   border: none;
   color: black;
   background-color: #lightgray;
-    text-align: center;
+  font-family: 'Times New Roman', serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
   text-decoration: none;
   border-radius:50px;
 }
@@ -49,7 +59,10 @@ body {
   border: none;
   color: black;
   background-color: #lightgray;
-    text-align: center;
+  font-family: 'Times New Roman', serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
   text-decoration: none;
   border-radius:50px;
 }
@@ -62,7 +75,10 @@ body {
   border: none;
   color: black;
   background-color: #lightgray;
-    text-align: center;
+  font-family: 'Times New Roman', serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
   text-decoration: none;
   border-radius:50px;
 }
@@ -75,7 +91,10 @@ body {
   border: none;
   color: black;
   background-color: #FFBD0B;
-    text-align: center;
+  font-family: 'Times New Roman', serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
   text-decoration: none;
   border-radius:10px;
 }
