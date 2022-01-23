@@ -1,4 +1,11 @@
 # Rhino
+newmtl Material-Material-Plastic__3_
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 0.0000 0.0000
+Ks 1.0000 0.0000 0.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 63.7500
 newmtl Material-Material-FrontColor__imported_
 Ka 0.0000 0.0000 0.0000
 Kd 0.2588 0.2431 0.2471
@@ -14,13 +21,6 @@ Tf 0.0000 0.0000 0.0000
 d 1.0000
 Ns 0.0000
 map_Kd punga punga wood f1614.jpg
-newmtl Material-Material-Plastic__3_
-Ka 0.0000 0.0000 0.0000
-Kd 1.0000 0.0000 0.0000
-Ks 1.0000 0.0000 0.0000
-Tf 0.0000 0.0000 0.0000
-d 1.0000
-Ns 63.7500
 newmtl Material-Material-Material.008
 Ka 0.0000 0.0000 0.0000
 Kd 0.8000 0.8000 0.8000
