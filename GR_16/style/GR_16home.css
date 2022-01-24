@@ -83,10 +83,26 @@ body {
   border-radius:50px;
 }
 
-.button_video {
+.button_5 {
   left: 5%;
   width: 30%;
   top: 470px;
+  position:fixed;
+  border: none;
+  color: black;
+  background-color: #lightgray;
+  font-family: 'Times New Roman', serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  border-radius:10px;
+}
+
+.button_video {
+  left: 5%;
+  width: 30%;
+  top: 560px;
   position:fixed;
   border: none;
   color: black;
