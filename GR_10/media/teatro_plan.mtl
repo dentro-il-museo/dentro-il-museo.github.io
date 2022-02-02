@@ -1,0 +1,77 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 02.02.2022 14:03:00
+
+newmtl Material__2
+	Kd 0.50 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.00
+	Ke 0.00 0.00 0.00
+	illum 2
+	map_Kd -bm 0.00 Legno.jpg
+
+newmtl Material__24444
+	Kd 0.50 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.00
+	Ke 0.00 0.00 0.00
+	illum 2
+	map_Kd -bm 0.00 Marmo_giallo.jpg
+
+newmtl Material__24414141
+	Kd 0.50 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.00
+	Ke 0.00 0.00 0.00
+	illum 2
+	map_Kd -bm 0.00 Marmo_bianco.jpg
+
+newmtl Material__244444
+	Kd 0.50 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.00
+	Ke 0.00 0.00 0.00
+	illum 2
+	map_Kd -bm 0.00 Tessuto.jpg
+
+newmtl Material__222
+	Kd 0.50 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.00
+	Ke 0.00 0.00 0.00
+	illum 2
+	map_Kd -bm 0.00 Marmo_blu.jpg
