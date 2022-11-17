@@ -14,6 +14,7 @@
 	<script src="threex/threex-armarkercontrols.js"></script>
 </head>
 
+<!-- 
 <body style='margin : 0px; overflow: hidden; font-family: Monospace;'>
 
 <video id="video" autoplay loop crossOrigin="anonymous" webkit-playsinline style="display:none">
@@ -21,7 +22,7 @@
 	<source src="video/sintel.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
 </video>
 		
-<!-- 
+
   Example created by Lee Stemkoski: https://github.com/stemkoski
   Based on the AR.js library and examples created by Jerome Etienne: https://github.com/jeromeetienne/AR.js/
 -->
@@ -157,6 +158,17 @@ function animate()
 }
 
 </script>
+-->
+<a-scene>
+  <a-assets>
+    <video id="penguin-sledding" autoplay loop="true" src="penguin-sledding.mp4"></video>
+  </a-assets>
 
+  <!-- Using the asset management system. -->
+  <a-video src="#penguin-sledding" width="16" height="9" position="0 0 -20"></a-video>
+
+  <!-- Defining the URL inline. Not recommended but more comfortable for web developers. -->
+  <a-video src="airbending.mp4"></a-video>
+</a-scene>
 </body>
 </html>
