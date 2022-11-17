@@ -67,13 +67,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-cb9205b0e8bd.js"></script>
   
 
-  <title>AR-Examples/threex-artoolkitsource.js at master · stemkoski/AR-Examples</title>
+  <title>AR-Examples/threex-arsmoothedcontrols.js at master · stemkoski/AR-Examples</title>
 
 
 
     
 
-  <meta name="request-id" content="2BCF:F7CF:18A1F91:192D2BB:637648C7" data-turbo-transient="true" /><meta name="html-safe-nonce" content="0799ec0702f310e0dd4e4e8255f6f116c2852528eea0af6bc6bab9437799b189" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zdGVta29za2kvQVItRXhhbXBsZXMvdHJlZS9tYXN0ZXIvdGhyZWV4IiwicmVxdWVzdF9pZCI6IjJCQ0Y6RjdDRjoxOEExRjkxOjE5MkQyQkI6NjM3NjQ4QzciLCJ2aXNpdG9yX2lkIjoiOTU5Njc0MDM1NTIxODY5NjY2IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="03ea5bdcf326397730d7d14b2dbd6b71c6008301364247f6de08175f00ebb708" data-turbo-transient="true" />
+  <meta name="request-id" content="2BCF:F7CF:189E902:1929AD9:637648B6" data-turbo-transient="true" /><meta name="html-safe-nonce" content="0799ec0702f310e0dd4e4e8255f6f116c2852528eea0af6bc6bab9437799b189" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zdGVta29za2kvQVItRXhhbXBsZXMvdHJlZS9tYXN0ZXIvdGhyZWV4IiwicmVxdWVzdF9pZCI6IjJCQ0Y6RjdDRjoxODlFOTAyOjE5MjlBRDk6NjM3NjQ4QjYiLCJ2aXNpdG9yX2lkIjoiOTU5Njc0MDM1NTIxODY5NjY2IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="8d9cba145eefeaed57bee951ec91b5563889d29e6563d51d8caddbd7409d0e66" data-turbo-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:134855698" data-turbo-transient>
 
@@ -111,11 +111,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/6ff583e729dc43c7e403476822f4e0bc29b4d504340976b05338025804e387ff/stemkoski/AR-Examples" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="AR-Examples/threex-artoolkitsource.js at master · stemkoski/AR-Examples" /><meta name="twitter:description" content="Augmented Reality examples for the web. Contribute to stemkoski/AR-Examples development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/6ff583e729dc43c7e403476822f4e0bc29b4d504340976b05338025804e387ff/stemkoski/AR-Examples" /><meta property="og:image:alt" content="Augmented Reality examples for the web. Contribute to stemkoski/AR-Examples development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="AR-Examples/threex-artoolkitsource.js at master · stemkoski/AR-Examples" /><meta property="og:url" content="https://github.com/stemkoski/AR-Examples" /><meta property="og:description" content="Augmented Reality examples for the web. Contribute to stemkoski/AR-Examples development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/6ff583e729dc43c7e403476822f4e0bc29b4d504340976b05338025804e387ff/stemkoski/AR-Examples" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="AR-Examples/threex-arsmoothedcontrols.js at master · stemkoski/AR-Examples" /><meta name="twitter:description" content="Augmented Reality examples for the web. Contribute to stemkoski/AR-Examples development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/6ff583e729dc43c7e403476822f4e0bc29b4d504340976b05338025804e387ff/stemkoski/AR-Examples" /><meta property="og:image:alt" content="Augmented Reality examples for the web. Contribute to stemkoski/AR-Examples development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="AR-Examples/threex-arsmoothedcontrols.js at master · stemkoski/AR-Examples" /><meta property="og:url" content="https://github.com/stemkoski/AR-Examples" /><meta property="og:description" content="Augmented Reality examples for the web. Contribute to stemkoski/AR-Examples development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/91751714/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MTc1MTcxNCwicyI6OTkyODMwMzI2LCJjIjoyMjY0NDA2NzA1LCJ0IjoxNjY4Njk2MjY4fQ==--170cd30ae8f3a8ba9c92ae5321fda4387680a98570b3091c1795308674a279ac" data-refresh-url="/_alive" data-session-id="9f8206d098c5682102c7262e870d8f98abad92e9a359d25c50f5aefb54d0b646">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/91751714/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MTc1MTcxNCwicyI6OTkyODMwMzI2LCJjIjozMDEwNzc1NiwidCI6MTY2ODY5NjI1OH0=--6393eb666e10ce75566fca4cd6178c4cd5c8f57dfb730d85c25a773dd7e15d26" data-refresh-url="/_alive" data-session-id="9f8206d098c5682102c7262e870d8f98abad92e9a359d25c50f5aefb54d0b646">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -145,7 +145,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -237,7 +237,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="yldF0P-Q8FxbIZY8pEbq8ctVL9fTE8al5SKU9rmfZ70PzvyrC8KI4mAEiO4wYXXjm6OpOEJ_rCsg5S5bgSSWVw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="pS_wDL-W8y2qRDbSGvdAfiDKqfuMF0NcQxxePLivf_Bgtkl3S8SLk5FhKACO0N9scDwvFB17KdKG2-SRgBSOGg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -436,7 +436,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;dentro-il-museo&quot;,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="9e23c1120f1127773f952850bc3b5040aa4ac69a263bdc9b120a12910467a9d1" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;dentro-il-museo&quot;,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="54b1aadc75bd081cb61550cd4b8f484ce495442c4b52ce1b6fec1cafbc70e2dc" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -444,7 +444,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/91751714?s=40&amp;v=4" width="20" height="20" alt="@dentro-il-museo" />
       dentro-il-museo
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="V-cgDII0eNyTTJXsQ9Nie_UFigTkzH4AZPcbLpvJ5s_l5j5omH_VPTO0gswJQawwGPgUdMI3k_XXdOqD_RSPew" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ULq8ivTHJ0mz8g9H0uJbBB1ECGYmjV_szRoe6P_JE6riu6Lu7oyKqBMKGGeYcJVP8LmWFgB2shl-me9FmRR6Hg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -479,7 +479,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTE3NTE3MTQiLCJ0IjoxNjY4Njk2MjY4fQ==--90338ebf44540d3f926fb8281895a2457f3c68cce4639e50fffdd5cd4f6707df" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTE3NTE3MTQiLCJ0IjoxNjY4Njk2MjU4fQ==--fe8f1366fa9ed57f8270f44780c584868b18b83bf30efeeb65a5204a6826d584" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -636,7 +636,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js
+      return-to=/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js
       user-id="91751714"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1602,7 +1602,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="3585e3c33b2ca934c7e23a6deea4a7c044f224e4a214ce3d7ca736c271d506da" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="826919f71cca1b8f46e927981d665d574b1a51285a3174851f06b442c6a75519" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1654,7 +1654,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nnQyMA2oy4PgWohgNcjH9aCWBlVWaGo9OzQ1W5iga9QJ3boqXyMOdw6LoRnPZbLyFz3Jq089wGikk1FM4fjjvQ" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="12b4Oka55VBoKF044kKZOaHj_Cef4GCUP0X1oHUrAlJAz3AgFDIgpIb5dEEY7-w-Fkgz2Ya1ysGg4pG3DHOKOw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="134855698">
 
@@ -1772,7 +1772,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Mpt-c6a_FCFO6O6cjJp7Mcw-G6zA3Oyy-Iia10WAvl-lMvZp9DTR1aA5x-V2Nw42e5XUUtmJRudnL_7APNg2Ng" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hzPgbdnzw6j0How3jbEy_KvfZfU0Jvv5oMEgaY45JNEQmmh3i3gGXBrPpU53HEf7HHSqCy1zUaw_ZkR-92GsuA" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="134855698">
 
@@ -1923,7 +1923,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/stemkoski/AR-Examples/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="149e9bcb720ca57e62e4b9c50cbcf7f681b6836049dbe06f0fdc16798d6cd997" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of stemkoski/AR-Examples" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/stemkoski/AR-Examples/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="7a1c20dd7c2f44e7527e9a915fbebde39ba4c3e349273bc98a11ce5640a49d51" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of stemkoski/AR-Examples" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="287" data-view-component="true" class="Counter">287</span>
@@ -1941,13 +1941,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7f6ec2">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-be86af">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-7f6ec2"
+        id="filter-menu-be86af"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1989,10 +1989,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/stemkoski/AR-Examples/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="B9b8ywzNoHUMSVfWj0K5stxLdzbsVaHfa-QSqiceYWMPtycBd5zjCURszsRy-S5_eAIuBS4Xrz-zzP1elWE66A" autocomplete="off" />
-          <input type="hidden" value="Hd3etHssDwKnkUamJ5rT0dweBenI4MkSUHq-ddkXOYUVvAV-AH1Mfu-037TaIUQceFdc2gqix_KIUlGBa2hiDg" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/stemkoski/AR-Examples/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pUctVXdENO2CdwuJmRAGoSvy7q_ao13XFK_JlgjFjjitJvafDBV3kcpSkptkq5Fsj7u3nBjhUzfMhyZiurrVsw" autocomplete="off" />
+          <input type="hidden" value="lYPHLe4u_aKj92LJxer8IEYQxrNbRm1rnEH_Ew80ZYud4hznlX--3uvS-9s4UWvt4lmfgJkEY4tEaRDnvUs-AA" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="1df830df4d62754d2737419f8343ba4f23bb6e6bdfe0ab6331dcf2d6aaa42cbe" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (481)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="433294c771e350048d355e2cf974cca11001f8a4c971bd4ac32c9897ff7ca50d" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (481)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2010,13 +2010,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-9fca19">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ad7e1b">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-9fca19"
+        id="filter-menu-ad7e1b"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2037,9 +2037,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/stemkoski/AR-Examples/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="asHsEvLNNOPF_NSX3G6D0bBqh4eZZIrFma9tytYzveMOv19FbwvAY-isFEOFaqiCq6AqCmTGlFCGcAg6_JfAzw" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/stemkoski/AR-Examples/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QhZuvH7a7cPjcAD0kdu-xRHKYmxKcDh4WcMg9MpFl4EmaN3r4xwZQ84gwCDI35WWCgDP4bfSJu1GHEUE4OHqrQ" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="8de7f0f775b27c56265a7a26c096399a913f156a3d87e32e35057af5cf21f830" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (481)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="bebc2a18b6178442970ffa53bec63fc1b91c36095f5fd935b97a09e26f0730c0" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (481)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2057,13 +2057,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-9fca19">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ad7e1b">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-9fca19"
+        id="filter-menu-ad7e1b"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2250,7 +2250,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/stemkoski/AR-Examples/blob/c05f51cee5ec4df212aca686f89698d321c2e978/threex/threex-artoolkitsource.js">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/stemkoski/AR-Examples/blob/c05f51cee5ec4df212aca686f89698d321c2e978/threex/threex-arsmoothedcontrols.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2258,7 +2258,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="cc0f1356818af86c7bd2499729b55c5c30eb2bb1dd31f932996aca2f774fb443">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="7b34e8e28a9cbe7a08b32df76d9f9cd23f7b49f867c06d0c841b34ff5805efc6">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2339,7 +2339,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/stemkoski/AR-Examples/blob/{{ urlEncodedRefName }}/threex/threex-artoolkitsource.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/stemkoski/AR-Examples/blob/{{ urlEncodedRefName }}/threex/threex-arsmoothedcontrols.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2381,7 +2381,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/stemkoski/AR-Examples/blob/{{ urlEncodedRefName }}/threex/threex-artoolkitsource.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/stemkoski/AR-Examples/blob/{{ urlEncodedRefName }}/threex/threex-arsmoothedcontrols.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2442,9 +2442,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/stemkoski/AR-Examples"><span>AR-Examples</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/stemkoski/AR-Examples/tree/master/threex"><span>threex</span></a></span><span class="separator">/</span><strong class="final-path">threex-artoolkitsource.js</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/stemkoski/AR-Examples"><span>AR-Examples</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/stemkoski/AR-Examples/tree/master/threex"><span>threex</span></a></span><span class="separator">/</span><strong class="final-path">threex-arsmoothedcontrols.js</strong>
       <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="46882abb0a17913e29683990872d936ec8387beb3bd519a9feee28be7770d0c2" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="bac534ca8fda895e2a7ecb006769a7e9e6552f9d2e1ec70ce505962cb93b56cf" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
     <span data-menu-button>Jump to</span>
@@ -2472,107 +2472,35 @@
         </div>
       <div class="SelectMenu-list">
         <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
-            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L4">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="a82eff7faa61b97d85a93cd6c6174aa11732e96192852909d871a757a1ad4e08" href="/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js#L10">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>ArToolkitSource</span>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>ArSmoothedControls</span>
               <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L28">
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="a82eff7faa61b97d85a93cd6c6174aa11732e96192852909d871a757a1ad4e08" href="/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js#L43">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
               <span class="flex-auto css-truncate-target" data-menu-button-text>setParameters</span>
               <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L53">
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="a82eff7faa61b97d85a93cd6c6174aa11732e96192852909d871a757a1ad4e08" href="/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js#L72">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>init</span>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>update</span>
               <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L75">
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="a82eff7faa61b97d85a93cd6c6174aa11732e96192852909d871a757a1ad4e08" href="/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js#L141">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>onSourceReady</span>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>snapDirectlyToTarget</span>
               <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L89">
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="a82eff7faa61b97d85a93cd6c6174aa11732e96192852909d871a757a1ad4e08" href="/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js#L147">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>_initSourceImage</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L114">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>_initSourceVideo</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L128">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>onClick</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L151">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>_initSourceWebcam</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L200">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>success</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L234">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>hasMobileTorch</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L256">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>toggleMobileTorch</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L288">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>domElementWidth</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L291">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>domElementHeight</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L299">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>onResizeElement</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L353">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>copyElementSizeTo</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L377">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>copySizeTo</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:134855698,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="121e146bc3227042c2dbc77b79ba34ce64bfb4effb411947a6070e8b526d483c" href="/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js#L386">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>onResize</span>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>applyOneSlerpStep</span>
               <span class="flex-auto d-flex flex-justify-end">Function</span>
 </a>        </div>
       </div>
@@ -2596,7 +2524,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="4b770f40c9b44a72b30730aa0d2ecdf564e66801ef2278defd07ff53bc2ad164" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/stemkoski/AR-Examples/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="d331801ae854e024459bf2134efda02fb07d88f7dabd6fbc26f4f5e35c7bc258" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/stemkoski/AR-Examples/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2614,13 +2542,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="threex/threex-artoolkitsource.js" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="threex/threex-arsmoothedcontrols.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/stemkoski/AR-Examples/blob/c05f51cee5ec4df212aca686f89698d321c2e978/threex/threex-artoolkitsource.js" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/stemkoski/AR-Examples/blob/c05f51cee5ec4df212aca686f89698d321c2e978/threex/threex-arsmoothedcontrols.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2652,7 +2580,7 @@
     <include-fragment src="/stemkoski/AR-Examples/spoofed_commit_check/c05f51cee5ec4df212aca686f89698d321c2e978" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/stemkoski/AR-Examples/contributors/master/threex/threex-artoolkitsource.js" class="commit-loader">
+  <include-fragment src="/stemkoski/AR-Examples/contributors/master/threex/threex-arsmoothedcontrols.js" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2686,23 +2614,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      433 lines (359 sloc)
+      152 lines (127 sloc)
       <span class="file-info-divider"></span>
-    13.8 KB
+    5.19 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/stemkoski/AR-Examples/raw/c05f51cee5ec4df212aca686f89698d321c2e978/threex/threex-artoolkitsource.js" href="/stemkoski/AR-Examples/raw/master/threex/threex-artoolkitsource.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/stemkoski/AR-Examples/blame/c05f51cee5ec4df212aca686f89698d321c2e978/threex/threex-artoolkitsource.js" href="/stemkoski/AR-Examples/blame/master/threex/threex-artoolkitsource.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/stemkoski/AR-Examples/raw/c05f51cee5ec4df212aca686f89698d321c2e978/threex/threex-arsmoothedcontrols.js" href="/stemkoski/AR-Examples/raw/master/threex/threex-arsmoothedcontrols.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/stemkoski/AR-Examples/blame/c05f51cee5ec4df212aca686f89698d321c2e978/threex/threex-arsmoothedcontrols.js" href="/stemkoski/AR-Examples/blame/master/threex/threex-arsmoothedcontrols.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/stemkoski/AR-Examples/edit/master/threex/threex-artoolkitsource.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FF-8NezmeDOuDU5g81zThOw0KsQ_bkuCiRUUEA3G59cCD_OF3X6ykHluz1QrqvnN_C_tqNjtVua3jpRHYdnaTQ" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/stemkoski/AR-Examples/edit/master/threex/threex-arsmoothedcontrols.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RPe653QGMzQEKplMh0bZi_067-BY8Pqx9_Bj-ZS__YXKGD7U2YhEs7LVvnNMHrywIYiguCCVDnhYM6ET_BcQDQ" autocomplete="off" />
       <button title="Edit the file in your fork of this project" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2712,7 +2640,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/stemkoski/AR-Examples/edit/master/threex/threex-artoolkitsource.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eE7bvJNYTmpObRcK0PLSFk8GWZsECBwbsLReIita8v1uHpQMosCEyZkOlj4IBPhfXx2e9-OLAX-OL951R0XPZw" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/stemkoski/AR-Examples/edit/master/threex/threex-arsmoothedcontrols.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pWpMpT82POnayhberQBiNobw5xNWk4_37WxS5Tdmj8crhciWkrhLbmw1MeFmWAcNWkKoSy72ez5Cr5APX85iTw" autocomplete="off" />
               <button title="Edit the file in your fork of this project" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2720,7 +2648,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/stemkoski/AR-Examples?branch=master&amp;filepath=threex%2Fthreex-artoolkitsource.js" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/stemkoski/AR-Examples?branch=master&amp;filepath=threex%2Fthreex-arsmoothedcontrols.js" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2731,10 +2659,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/stemkoski/AR-Examples/raw/c05f51cee5ec4df212aca686f89698d321c2e978/threex/threex-artoolkitsource.js" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/stemkoski/AR-Examples/raw/c05f51cee5ec4df212aca686f89698d321c2e978/threex/threex-arsmoothedcontrols.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="6e8a3a767ce4fef4b7265a06d0a7b60c5036d245d95fb056f3d5c826a4fb708f" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="284f7676b8941ba07b93623fe61dd6b34eb1108cc3bfaf3cc21017dbcc848b28" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2759,7 +2687,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/stemkoski/AR-Examples/delete/master/threex/threex-artoolkitsource.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7Xnbqt8a5LqhY5icdcUI9mS56A3quhKrWnlpBewYZOBd974XEAITS2kR2Z_oRWNGEWuZwdzIn6YVAvy8P-7BBA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/stemkoski/AR-Examples/delete/master/threex/threex-arsmoothedcontrols.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dcVCmPPLJgc5OqD3gKdp_9-YSTAujay1B_PhCdSubNUuiGCWSL_DqINRAmSOsQ6SM_V8KFqaJCR_9C4t08F9RQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2787,20 +2715,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/stemkoski/AR-Examples?branch=master&amp;filepath=threex%2Fthreex-artoolkitsource.js">
+                   href="x-github-client://openRepo/https://github.com/stemkoski/AR-Examples?branch=master&amp;filepath=threex%2Fthreex-arsmoothedcontrols.js">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/stemkoski/AR-Examples/raw/master/threex/threex-artoolkitsource.js">
+            <a class="dropdown-item" href="/stemkoski/AR-Examples/raw/master/threex/threex-arsmoothedcontrols.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/stemkoski/AR-Examples/raw/master/threex/threex-artoolkitsource.js" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/stemkoski/AR-Examples/raw/master/threex/threex-arsmoothedcontrols.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-artoolkitsource.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="6e8a3a767ce4fef4b7265a06d0a7b60c5036d245d95fb056f3d5c826a4fb708f">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:134855698,&quot;originating_url&quot;:&quot;https://github.com/stemkoski/AR-Examples/blob/master/threex/threex-arsmoothedcontrols.js&quot;,&quot;user_id&quot;:91751714}}" data-hydro-click-hmac="284f7676b8941ba07b93623fe61dd6b34eb1108cc3bfaf3cc21017dbcc848b28">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2823,20 +2751,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/stemkoski/AR-Examples/blame/master/threex/threex-artoolkitsource.js">
+              <a class="dropdown-item" href="/stemkoski/AR-Examples/blame/master/threex/threex-arsmoothedcontrols.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/stemkoski/AR-Examples/edit/master/threex/threex-artoolkitsource.js">Edit file</a>
+                <a class="dropdown-item" href="/stemkoski/AR-Examples/edit/master/threex/threex-arsmoothedcontrols.js">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:134855698,&quot;actor_id&quot;:91751714,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/stemkoski/AR-Examples/delete/master/threex/threex-artoolkitsource.js">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/stemkoski/AR-Examples/delete/master/threex/threex-arsmoothedcontrols.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2873,321 +2801,318 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="threex/threex-artoolkitsource.js">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="threex/threex-arsmoothedcontrols.js">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>var</span> <span class=pl-v>ARjs</span> <span class=pl-c1>=</span> <span class=pl-v>ARjs</span> <span class=pl-c1>||</span> <span class=pl-kos>{</span><span class=pl-kos>}</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>var</span> <span class=pl-v>THREEx</span> <span class=pl-c1>=</span> <span class=pl-v>THREEx</span> <span class=pl-c1>||</span> <span class=pl-kos>{</span><span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-k>var</span> <span class=pl-v>THREEx</span> <span class=pl-c1>=</span> <span class=pl-v>THREEx</span> <span class=pl-c1>||</span> <span class=pl-kos>{</span><span class=pl-kos>}</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/**</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ARjs</span><span class=pl-kos>.</span><span class=pl-c1>Source</span> <span class=pl-c1>=</span> <span class=pl-v>THREEx</span><span class=pl-kos>.</span><span class=pl-en>ArToolkitSource</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>parameters</span><span class=pl-kos>)</span><span class=pl-kos>{</span>	</td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-c> * - lerp position/quaternino/scale</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>_this</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-c> * - minDelayDetected</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-c> * - minDelayUndetected</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>ready</span> <span class=pl-c1>=</span> <span class=pl-c1>false</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-c> * <span class=pl-k>@param</span> {<span class=pl-smi>[type]</span>} object3d   [description]</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">        <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span> <span class=pl-c1>=</span> <span class=pl-c1>null</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-c> * <span class=pl-k>@param</span> {<span class=pl-smi>[type]</span>} parameters [description]</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-c> */</span></td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// handle default parameters</span></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-v>THREEx</span><span class=pl-kos>.</span><span class=pl-en>ArSmoothedControls</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>object3d</span><span class=pl-kos>,</span> <span class=pl-s1>parameters</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span> <span class=pl-c1>=</span> <span class=pl-kos>{</span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>_this</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span></td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// type of source - [&#39;webcam&#39;, &#39;image&#39;, &#39;video&#39;]</span></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">	</td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">		<span class=pl-c1>sourceType</span> : <span class=pl-s>&#39;webcam&#39;</span><span class=pl-kos>,</span></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">	<span class=pl-v>THREEx</span><span class=pl-kos>.</span><span class=pl-c1>ArBaseControls</span><span class=pl-kos>.</span><span class=pl-en>call</span><span class=pl-kos>(</span><span class=pl-smi>this</span><span class=pl-kos>,</span> <span class=pl-s1>object3d</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// url of the source - valid if sourceType = image|video</span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">	</td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">		<span class=pl-c1>sourceUrl</span> : <span class=pl-c1>null</span><span class=pl-kos>,</span></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// copy parameters</span></td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">		</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>object3d</span><span class=pl-kos>.</span><span class=pl-c1>visible</span> <span class=pl-c1>=</span> <span class=pl-c1>false</span></td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// resolution of at which we initialize in the source image</span></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">	</td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">		<span class=pl-c1>sourceWidth</span>: <span class=pl-c1>640</span><span class=pl-kos>,</span></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_lastLerpStepAt</span> <span class=pl-c1>=</span> <span class=pl-c1>null</span></td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">		<span class=pl-c1>sourceHeight</span>: <span class=pl-c1>480</span><span class=pl-kos>,</span></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_visibleStartedAt</span> <span class=pl-c1>=</span> <span class=pl-c1>null</span></td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// resolution displayed for the source </span></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_unvisibleStartedAt</span> <span class=pl-c1>=</span> <span class=pl-c1>null</span></td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">		<span class=pl-c1>displayWidth</span>: <span class=pl-c1>640</span><span class=pl-kos>,</span></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">		<span class=pl-c1>displayHeight</span>: <span class=pl-c1>480</span><span class=pl-kos>,</span></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// handle default parameters</span></td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>parameters</span> <span class=pl-c1>=</span> <span class=pl-s1>parameters</span> <span class=pl-c1>||</span> <span class=pl-kos>{</span><span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span> <span class=pl-c1>=</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//		setParameters</span></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// lerp coeficient for the position - between [0,1] - default to 1</span></td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">		<span class=pl-c1>lerpPosition</span>: <span class=pl-c1>0.8</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">	<span class=pl-en>setParameters</span><span class=pl-kos>(</span><span class=pl-s1>parameters</span><span class=pl-kos>)</span></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// lerp coeficient for the quaternion - between [0,1] - default to 1</span></td>
         </tr>
         <tr>
           <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>function</span> <span class=pl-en>setParameters</span><span class=pl-kos>(</span><span class=pl-s1>parameters</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">		<span class=pl-c1>lerpQuaternion</span>: <span class=pl-c1>0.2</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>parameters</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> <span class=pl-kos>)</span>	<span class=pl-k>return</span></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// lerp coeficient for the scale - between [0,1] - default to 1</span></td>
         </tr>
         <tr>
           <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>for</span><span class=pl-kos>(</span> <span class=pl-k>var</span> <span class=pl-s1>key</span> <span class=pl-k>in</span> <span class=pl-s1>parameters</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">		<span class=pl-c1>lerpScale</span>: <span class=pl-c1>0.7</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">			<span class=pl-k>var</span> <span class=pl-s1>newValue</span> <span class=pl-c1>=</span> <span class=pl-s1>parameters</span><span class=pl-kos>[</span> <span class=pl-s1>key</span> <span class=pl-kos>]</span></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// delay for lerp fixed steps - in seconds - default to 1/120</span></td>
         </tr>
         <tr>
           <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">		<span class=pl-c1>lerpStepDelay</span>: <span class=pl-c1>1</span><span class=pl-c1>/</span><span class=pl-c1>60</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">			<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>newValue</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// minimum delay the sub-control must be visible before this controls become visible - default to 0 seconds</span></td>
         </tr>
         <tr>
           <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line">				<span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>warn</span><span class=pl-kos>(</span> <span class=pl-s>&quot;THREEx.ArToolkitSource: &#39;&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>key</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;&#39; parameter is undefined.&quot;</span> <span class=pl-kos>)</span></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">		<span class=pl-c1>minVisibleDelay</span>: <span class=pl-c1>0.0</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line">				<span class=pl-k>continue</span></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// minimum delay the sub-control must be unvisible before this controls become unvisible - default to 0 seconds</span></td>
         </tr>
         <tr>
           <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>}</span></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">		<span class=pl-c1>minUnvisibleDelay</span>: <span class=pl-c1>0.2</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">			<span class=pl-k>var</span> <span class=pl-s1>currentValue</span> <span class=pl-c1>=</span> <span class=pl-s1>_this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>[</span> <span class=pl-s1>key</span> <span class=pl-kos>]</span></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">	</td>
         </tr>
         <tr>
           <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
         </tr>
         <tr>
           <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line">			<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>currentValue</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//		setParameters</span></td>
         </tr>
         <tr>
           <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line">				<span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>warn</span><span class=pl-kos>(</span> <span class=pl-s>&quot;THREEx.ArToolkitSource: &#39;&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>key</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;&#39; is not a property of this material.&quot;</span> <span class=pl-kos>)</span></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
         </tr>
         <tr>
           <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line">				<span class=pl-k>continue</span></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">	<span class=pl-en>setParameters</span><span class=pl-kos>(</span><span class=pl-s1>parameters</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>}</span></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>function</span> <span class=pl-en>setParameters</span><span class=pl-kos>(</span><span class=pl-s1>parameters</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>parameters</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> <span class=pl-kos>)</span>	<span class=pl-k>return</span></td>
         </tr>
         <tr>
           <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line">			<span class=pl-s1>_this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>[</span> <span class=pl-s1>key</span> <span class=pl-kos>]</span> <span class=pl-c1>=</span> <span class=pl-s1>newValue</span></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>for</span><span class=pl-kos>(</span> <span class=pl-k>var</span> <span class=pl-s1>key</span> <span class=pl-k>in</span> <span class=pl-s1>parameters</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">			<span class=pl-k>var</span> <span class=pl-s1>newValue</span> <span class=pl-c1>=</span> <span class=pl-s1>parameters</span><span class=pl-kos>[</span> <span class=pl-s1>key</span> <span class=pl-kos>]</span></td>
         </tr>
         <tr>
           <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
-          <td id="LC47" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span>	</td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
-          <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">			<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>newValue</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
-          <td id="LC49" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">				<span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>warn</span><span class=pl-kos>(</span> <span class=pl-s>&quot;THREEx.ArSmoothedControls: &#39;&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>key</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;&#39; parameter is undefined.&quot;</span> <span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
-          <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">				<span class=pl-k>continue</span></td>
         </tr>
         <tr>
           <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
-          <td id="LC51" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//		Code Separator</span></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
-          <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
-          <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ARjs</span><span class=pl-kos>.</span><span class=pl-c1>Source</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-en>init</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>onReady</span><span class=pl-kos>,</span> <span class=pl-s1>onError</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line">			<span class=pl-k>var</span> <span class=pl-s1>currentValue</span> <span class=pl-c1>=</span> <span class=pl-s1>_this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>[</span> <span class=pl-s1>key</span> <span class=pl-kos>]</span></td>
         </tr>
         <tr>
           <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
-          <td id="LC54" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>_this</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
-          <td id="LC55" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line">			<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>currentValue</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
-          <td id="LC56" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>sourceType</span> <span class=pl-c1>===</span> <span class=pl-s>&#39;image&#39;</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line">				<span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>warn</span><span class=pl-kos>(</span> <span class=pl-s>&quot;THREEx.ArSmoothedControls: &#39;&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>key</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;&#39; is not a property of this material.&quot;</span> <span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
-          <td id="LC57" class="blob-code blob-code-inner js-file-line">                <span class=pl-k>var</span> <span class=pl-s1>domElement</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-en>_initSourceImage</span><span class=pl-kos>(</span><span class=pl-s1>onSourceReady</span><span class=pl-kos>,</span> <span class=pl-s1>onError</span><span class=pl-kos>)</span>                        </td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">				<span class=pl-k>continue</span></td>
         </tr>
         <tr>
           <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
-          <td id="LC58" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>sourceType</span> <span class=pl-c1>===</span> <span class=pl-s>&#39;video&#39;</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
-          <td id="LC59" class="blob-code blob-code-inner js-file-line">                <span class=pl-k>var</span> <span class=pl-s1>domElement</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-en>_initSourceVideo</span><span class=pl-kos>(</span><span class=pl-s1>onSourceReady</span><span class=pl-kos>,</span> <span class=pl-s1>onError</span><span class=pl-kos>)</span>                        </td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
-          <td id="LC60" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>sourceType</span> <span class=pl-c1>===</span> <span class=pl-s>&#39;webcam&#39;</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">			<span class=pl-s1>_this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>[</span> <span class=pl-s1>key</span> <span class=pl-kos>]</span> <span class=pl-c1>=</span> <span class=pl-s1>newValue</span></td>
         </tr>
         <tr>
           <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
-          <td id="LC61" class="blob-code blob-code-inner js-file-line">                <span class=pl-c>// var domElement = this._initSourceWebcamOld(onSourceReady)                        </span></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
-          <td id="LC62" class="blob-code blob-code-inner js-file-line">                <span class=pl-k>var</span> <span class=pl-s1>domElement</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-en>_initSourceWebcam</span><span class=pl-kos>(</span><span class=pl-s1>onSourceReady</span><span class=pl-kos>,</span> <span class=pl-s1>onError</span><span class=pl-kos>)</span>                        </td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
-          <td id="LC63" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span><span class=pl-k>else</span><span class=pl-kos>{</span></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
-          <td id="LC64" class="blob-code blob-code-inner js-file-line">                <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>assert</span><span class=pl-kos>(</span><span class=pl-c1>false</span><span class=pl-kos>)</span></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line">	</td>
         </tr>
         <tr>
           <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
-          <td id="LC65" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span></td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line"><span class=pl-v>THREEx</span><span class=pl-kos>.</span><span class=pl-c1>ArSmoothedControls</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span> <span class=pl-c1>=</span> <span class=pl-v>Object</span><span class=pl-kos>.</span><span class=pl-en>create</span><span class=pl-kos>(</span> <span class=pl-v>THREEx</span><span class=pl-kos>.</span><span class=pl-c1>ArBaseControls</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span> <span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
-          <td id="LC66" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line"><span class=pl-v>THREEx</span><span class=pl-kos>.</span><span class=pl-c1>ArSmoothedControls</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-c1>constructor</span> <span class=pl-c1>=</span> <span class=pl-v>THREEx</span><span class=pl-kos>.</span><span class=pl-c1>ArSmoothedControls</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
-          <td id="LC67" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// attach</span></td>
-        </tr>
-        <tr>
-          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
-          <td id="LC68" class="blob-code blob-code-inner js-file-line">        <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span> <span class=pl-c1>=</span> <span class=pl-s1>domElement</span></td>
-        </tr>
-        <tr>
-          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
-          <td id="LC69" class="blob-code blob-code-inner js-file-line">        <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>position</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;absolute&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
-          <td id="LC70" class="blob-code blob-code-inner js-file-line">        <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>top</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;0px&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
-          <td id="LC71" class="blob-code blob-code-inner js-file-line">        <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>left</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;0px&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
-          <td id="LC72" class="blob-code blob-code-inner js-file-line">        <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>zIndex</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;-2&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
-          <td id="LC73" class="blob-code blob-code-inner js-file-line">
+          <td id="LC67" class="blob-code blob-code-inner js-file-line">
 </td>
         </tr>
         <tr>
+          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
+        </tr>
+        <tr>
+          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//		update function</span></td>
+        </tr>
+        <tr>
+          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
+        </tr>
+        <tr>
+          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
+          <td id="LC71" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
+          <td id="LC72" class="blob-code blob-code-inner js-file-line"><span class=pl-v>THREEx</span><span class=pl-kos>.</span><span class=pl-c1>ArSmoothedControls</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-en>update</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>targetObject3d</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
+          <td id="LC73" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>object3d</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>object3d</span></td>
+        </tr>
+        <tr>
           <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
-          <td id="LC74" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>return</span> <span class=pl-smi>this</span></td>
+          <td id="LC74" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>parameters</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span></td>
         </tr>
         <tr>
           <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
-          <td id="LC75" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>function</span> <span class=pl-en>onSourceReady</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+          <td id="LC75" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>wasVisible</span> <span class=pl-c1>=</span> <span class=pl-s1>object3d</span><span class=pl-kos>.</span><span class=pl-c1>visible</span></td>
         </tr>
         <tr>
           <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
-          <td id="LC76" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-c1>body</span><span class=pl-kos>.</span><span class=pl-en>appendChild</span><span class=pl-kos>(</span><span class=pl-s1>_this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC76" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>present</span> <span class=pl-c1>=</span> <span class=pl-s1>performance</span><span class=pl-kos>.</span><span class=pl-en>now</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-c1>/</span><span class=pl-c1>1000</span></td>
         </tr>
         <tr>
           <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
@@ -3196,41 +3121,41 @@
         </tr>
         <tr>
           <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
-          <td id="LC78" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>_this</span><span class=pl-kos>.</span><span class=pl-c1>ready</span> <span class=pl-c1>=</span> <span class=pl-c1>true</span></td>
+          <td id="LC78" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
-          <td id="LC79" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC79" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
         </tr>
         <tr>
           <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
-          <td id="LC80" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>onReady</span> <span class=pl-c1>&amp;&amp;</span> <span class=pl-s1>onReady</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
+          <td id="LC80" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//		handle object3d.visible with minVisibleDelay/minUnvisibleDelay</span></td>
         </tr>
         <tr>
           <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
-          <td id="LC81" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span></td>
+          <td id="LC81" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
         </tr>
         <tr>
           <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
-          <td id="LC82" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span> </td>
+          <td id="LC82" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>targetObject3d</span><span class=pl-kos>.</span><span class=pl-c1>visible</span> <span class=pl-c1>===</span> <span class=pl-c1>false</span> <span class=pl-kos>)</span>	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_visibleStartedAt</span> <span class=pl-c1>=</span> <span class=pl-c1>null</span></td>
         </tr>
         <tr>
           <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
-          <td id="LC83" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC83" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>targetObject3d</span><span class=pl-kos>.</span><span class=pl-c1>visible</span> <span class=pl-c1>===</span> <span class=pl-c1>true</span> <span class=pl-kos>)</span>	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_unvisibleStartedAt</span> <span class=pl-c1>=</span> <span class=pl-c1>null</span></td>
         </tr>
         <tr>
           <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
-          <td id="LC84" class="blob-code blob-code-inner js-file-line"><span class=pl-c>////////////////////////////////////////////////////////////////////////////////</span></td>
+          <td id="LC84" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
-          <td id="LC85" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//          init image source</span></td>
+          <td id="LC85" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>targetObject3d</span><span class=pl-kos>.</span><span class=pl-c1>visible</span> <span class=pl-c1>===</span> <span class=pl-c1>true</span> <span class=pl-c1>&amp;&amp;</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_visibleStartedAt</span> <span class=pl-c1>===</span> <span class=pl-c1>null</span> <span class=pl-kos>)</span>	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_visibleStartedAt</span> <span class=pl-c1>=</span> <span class=pl-s1>present</span></td>
         </tr>
         <tr>
           <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
-          <td id="LC86" class="blob-code blob-code-inner js-file-line"><span class=pl-c>////////////////////////////////////////////////////////////////////////////////</span></td>
+          <td id="LC86" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>targetObject3d</span><span class=pl-kos>.</span><span class=pl-c1>visible</span> <span class=pl-c1>===</span> <span class=pl-c1>false</span> <span class=pl-c1>&amp;&amp;</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_unvisibleStartedAt</span> <span class=pl-c1>===</span> <span class=pl-c1>null</span> <span class=pl-kos>)</span>	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_unvisibleStartedAt</span> <span class=pl-c1>=</span> <span class=pl-s1>present</span></td>
         </tr>
         <tr>
           <td id="L87" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="87"></td>
@@ -3239,1435 +3164,269 @@
         </tr>
         <tr>
           <td id="L88" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="88"></td>
-          <td id="LC88" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC88" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>wasVisible</span> <span class=pl-c1>===</span> <span class=pl-c1>false</span> <span class=pl-c1>&amp;&amp;</span> <span class=pl-s1>targetObject3d</span><span class=pl-kos>.</span><span class=pl-c1>visible</span> <span class=pl-c1>===</span> <span class=pl-c1>true</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L89" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="89"></td>
-          <td id="LC89" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ARjs</span><span class=pl-kos>.</span><span class=pl-c1>Source</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-en>_initSourceImage</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>onReady</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+          <td id="LC89" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>var</span> <span class=pl-s1>visibleFor</span> <span class=pl-c1>=</span> <span class=pl-s1>present</span> <span class=pl-c1>-</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_visibleStartedAt</span></td>
         </tr>
         <tr>
           <td id="L90" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="90"></td>
-          <td id="LC90" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// TODO make it static</span></td>
+          <td id="LC90" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>visibleFor</span> <span class=pl-c1>&gt;=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>minVisibleDelay</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L91" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="91"></td>
-          <td id="LC91" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>var</span> <span class=pl-s1>domElement</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>createElement</span><span class=pl-kos>(</span><span class=pl-s>&#39;img&#39;</span><span class=pl-kos>)</span></td>
+          <td id="LC91" class="blob-code blob-code-inner js-file-line">			<span class=pl-s1>object3d</span><span class=pl-kos>.</span><span class=pl-c1>visible</span> <span class=pl-c1>=</span> <span class=pl-c1>true</span></td>
         </tr>
         <tr>
           <td id="L92" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="92"></td>
-          <td id="LC92" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>src</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>sourceUrl</span></td>
+          <td id="LC92" class="blob-code blob-code-inner js-file-line">			<span class=pl-en>snapDirectlyToTarget</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L93" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="93"></td>
-          <td id="LC93" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC93" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L94" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="94"></td>
-          <td id="LC94" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>width</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>sourceWidth</span></td>
+          <td id="LC94" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// console.log(&#39;visibleFor&#39;, visibleFor)</span></td>
         </tr>
         <tr>
           <td id="L95" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="95"></td>
-          <td id="LC95" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>height</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>sourceHeight</span></td>
+          <td id="LC95" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L96" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="96"></td>
-          <td id="LC96" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>width</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>displayWidth</span><span class=pl-c1>+</span><span class=pl-s>&#39;px&#39;</span></td>
+          <td id="LC96" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L97" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="97"></td>
-          <td id="LC97" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>height</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>displayHeight</span><span class=pl-c1>+</span><span class=pl-s>&#39;px&#39;</span></td>
+          <td id="LC97" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>wasVisible</span> <span class=pl-c1>===</span> <span class=pl-c1>true</span> <span class=pl-c1>&amp;&amp;</span> <span class=pl-s1>targetObject3d</span><span class=pl-kos>.</span><span class=pl-c1>visible</span> <span class=pl-c1>===</span> <span class=pl-c1>false</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L98" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="98"></td>
-          <td id="LC98" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC98" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>var</span> <span class=pl-s1>unvisibleFor</span> <span class=pl-c1>=</span> <span class=pl-s1>present</span> <span class=pl-c1>-</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_unvisibleStartedAt</span></td>
         </tr>
         <tr>
           <td id="L99" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="99"></td>
-          <td id="LC99" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// wait until the video stream is ready</span></td>
+          <td id="LC99" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>unvisibleFor</span> <span class=pl-c1>&gt;=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>minUnvisibleDelay</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L100" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="100"></td>
-          <td id="LC100" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>interval</span> <span class=pl-c1>=</span> <span class=pl-en>setInterval</span><span class=pl-kos>(</span><span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+          <td id="LC100" class="blob-code blob-code-inner js-file-line">			<span class=pl-s1>object3d</span><span class=pl-kos>.</span><span class=pl-c1>visible</span> <span class=pl-c1>=</span> <span class=pl-c1>false</span>			</td>
         </tr>
         <tr>
           <td id="L101" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="101"></td>
-          <td id="LC101" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-c1>!</span><span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>naturalWidth</span><span class=pl-kos>)</span>	<span class=pl-k>return</span><span class=pl-kos>;</span></td>
+          <td id="LC101" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L102" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="102"></td>
-          <td id="LC102" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>onReady</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
+          <td id="LC102" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L103" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="103"></td>
-          <td id="LC103" class="blob-code blob-code-inner js-file-line">		<span class=pl-en>clearInterval</span><span class=pl-kos>(</span><span class=pl-s1>interval</span><span class=pl-kos>)</span></td>
+          <td id="LC103" class="blob-code blob-code-inner js-file-line">	</td>
         </tr>
         <tr>
           <td id="L104" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="104"></td>
-          <td id="LC104" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-kos>,</span> <span class=pl-c1>1000</span><span class=pl-c1>/</span><span class=pl-c1>50</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC104" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
         </tr>
         <tr>
           <td id="L105" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="105"></td>
-          <td id="LC105" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC105" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//		apply lerp on positon/quaternion/scale</span></td>
         </tr>
         <tr>
           <td id="L106" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="106"></td>
-          <td id="LC106" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>return</span> <span class=pl-s1>domElement</span>                </td>
+          <td id="LC106" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
         </tr>
         <tr>
           <td id="L107" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="107"></td>
-          <td id="LC107" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+          <td id="LC107" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L108" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="108"></td>
-          <td id="LC108" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC108" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// apply lerp steps - require fix time steps to behave the same no matter the fps</span></td>
         </tr>
         <tr>
           <td id="L109" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="109"></td>
-          <td id="LC109" class="blob-code blob-code-inner js-file-line"><span class=pl-c>////////////////////////////////////////////////////////////////////////////////</span></td>
+          <td id="LC109" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_lastLerpStepAt</span> <span class=pl-c1>===</span> <span class=pl-c1>null</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L110" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="110"></td>
-          <td id="LC110" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//          init video source</span></td>
+          <td id="LC110" class="blob-code blob-code-inner js-file-line">		<span class=pl-en>applyOneSlerpStep</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L111" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="111"></td>
-          <td id="LC111" class="blob-code blob-code-inner js-file-line"><span class=pl-c>////////////////////////////////////////////////////////////////////////////////</span></td>
+          <td id="LC111" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_lastLerpStepAt</span> <span class=pl-c1>=</span> <span class=pl-s1>present</span></td>
         </tr>
         <tr>
           <td id="L112" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="112"></td>
-          <td id="LC112" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC112" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-k>else</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L113" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="113"></td>
-          <td id="LC113" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC113" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>var</span> <span class=pl-s1>nStepsToDo</span> <span class=pl-c1>=</span> <span class=pl-v>Math</span><span class=pl-kos>.</span><span class=pl-en>floor</span><span class=pl-kos>(</span> <span class=pl-kos>(</span><span class=pl-s1>present</span> <span class=pl-c1>-</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_lastLerpStepAt</span><span class=pl-kos>)</span><span class=pl-c1>/</span><span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>lerpStepDelay</span> <span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L114" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="114"></td>
-          <td id="LC114" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ARjs</span><span class=pl-kos>.</span><span class=pl-c1>Source</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-en>_initSourceVideo</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>onReady</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+          <td id="LC114" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>for</span><span class=pl-kos>(</span><span class=pl-k>var</span> <span class=pl-s1>i</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span><span class=pl-kos>;</span> <span class=pl-s1>i</span> <span class=pl-c1>&lt;</span> <span class=pl-s1>nStepsToDo</span><span class=pl-kos>;</span> <span class=pl-s1>i</span><span class=pl-c1>++</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L115" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="115"></td>
-          <td id="LC115" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// TODO make it static</span></td>
+          <td id="LC115" class="blob-code blob-code-inner js-file-line">			<span class=pl-en>applyOneSlerpStep</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L116" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="116"></td>
-          <td id="LC116" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>domElement</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>createElement</span><span class=pl-kos>(</span><span class=pl-s>&#39;video&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC116" class="blob-code blob-code-inner js-file-line">			<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_lastLerpStepAt</span> <span class=pl-c1>+=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>lerpStepDelay</span></td>
         </tr>
         <tr>
           <td id="L117" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="117"></td>
-          <td id="LC117" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>src</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>sourceUrl</span></td>
+          <td id="LC117" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L118" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="118"></td>
-          <td id="LC118" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC118" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L119" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="119"></td>
-          <td id="LC119" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>objectFit</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;initial&#39;</span></td>
+          <td id="LC119" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L120" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="120"></td>
-          <td id="LC120" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC120" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// disable the lerp by directly copying targetObject3d position/quaternion/scale</span></td>
         </tr>
         <tr>
           <td id="L121" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="121"></td>
-          <td id="LC121" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>autoplay</span> <span class=pl-c1>=</span> <span class=pl-c1>true</span><span class=pl-kos>;</span></td>
+          <td id="LC121" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-c1>false</span> <span class=pl-kos>)</span><span class=pl-kos>{</span>		</td>
         </tr>
         <tr>
           <td id="L122" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="122"></td>
-          <td id="LC122" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>webkitPlaysinline</span> <span class=pl-c1>=</span> <span class=pl-c1>true</span><span class=pl-kos>;</span></td>
+          <td id="LC122" class="blob-code blob-code-inner js-file-line">		<span class=pl-en>snapDirectlyToTarget</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L123" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="123"></td>
-          <td id="LC123" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>controls</span> <span class=pl-c1>=</span> <span class=pl-c1>false</span><span class=pl-kos>;</span></td>
+          <td id="LC123" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L124" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="124"></td>
-          <td id="LC124" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>loop</span> <span class=pl-c1>=</span> <span class=pl-c1>true</span><span class=pl-kos>;</span></td>
+          <td id="LC124" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L125" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="125"></td>
-          <td id="LC125" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>muted</span> <span class=pl-c1>=</span> <span class=pl-c1>true</span></td>
+          <td id="LC125" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// update the matrix</span></td>
         </tr>
         <tr>
           <td id="L126" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="126"></td>
-          <td id="LC126" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC126" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>object3d</span><span class=pl-kos>.</span><span class=pl-en>updateMatrix</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L127" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="127"></td>
-          <td id="LC127" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// trick to trigger the video on android</span></td>
+          <td id="LC127" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L128" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="128"></td>
-          <td id="LC128" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-c1>body</span><span class=pl-kos>.</span><span class=pl-en>addEventListener</span><span class=pl-kos>(</span><span class=pl-s>&#39;click&#39;</span><span class=pl-kos>,</span> <span class=pl-k>function</span> <span class=pl-en>onClick</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+          <td id="LC128" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
         </tr>
         <tr>
           <td id="L129" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="129"></td>
-          <td id="LC129" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-c1>body</span><span class=pl-kos>.</span><span class=pl-en>removeEventListener</span><span class=pl-kos>(</span><span class=pl-s>&#39;click&#39;</span><span class=pl-kos>,</span> <span class=pl-s1>onClick</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC129" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//		honor becameVisible/becameUnVisible event</span></td>
         </tr>
         <tr>
           <td id="L130" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="130"></td>
-          <td id="LC130" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-en>play</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
+          <td id="LC130" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
         </tr>
         <tr>
           <td id="L131" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="131"></td>
-          <td id="LC131" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-kos>)</span></td>
+          <td id="LC131" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// honor becameVisible event</span></td>
         </tr>
         <tr>
           <td id="L132" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="132"></td>
-          <td id="LC132" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC132" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>wasVisible</span> <span class=pl-c1>===</span> <span class=pl-c1>false</span> <span class=pl-c1>&amp;&amp;</span> <span class=pl-s1>object3d</span><span class=pl-kos>.</span><span class=pl-c1>visible</span> <span class=pl-c1>===</span> <span class=pl-c1>true</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L133" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="133"></td>
-          <td id="LC133" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>width</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>sourceWidth</span></td>
+          <td id="LC133" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-en>dispatchEvent</span><span class=pl-kos>(</span><span class=pl-kos>{</span> <span class=pl-c1>type</span>: <span class=pl-s>&#39;becameVisible&#39;</span> <span class=pl-kos>}</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L134" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="134"></td>
-          <td id="LC134" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>height</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>sourceHeight</span></td>
+          <td id="LC134" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L135" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="135"></td>
-          <td id="LC135" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>width</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>displayWidth</span><span class=pl-c1>+</span><span class=pl-s>&#39;px&#39;</span></td>
+          <td id="LC135" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// honor becameUnVisible event</span></td>
         </tr>
         <tr>
           <td id="L136" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="136"></td>
-          <td id="LC136" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>height</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>displayHeight</span><span class=pl-c1>+</span><span class=pl-s>&#39;px&#39;</span></td>
+          <td id="LC136" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>wasVisible</span> <span class=pl-c1>===</span> <span class=pl-c1>true</span> <span class=pl-c1>&amp;&amp;</span> <span class=pl-s1>object3d</span><span class=pl-kos>.</span><span class=pl-c1>visible</span> <span class=pl-c1>===</span> <span class=pl-c1>false</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L137" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="137"></td>
-          <td id="LC137" class="blob-code blob-code-inner js-file-line">	</td>
+          <td id="LC137" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-en>dispatchEvent</span><span class=pl-kos>(</span><span class=pl-kos>{</span> <span class=pl-c1>type</span>: <span class=pl-s>&#39;becameUnVisible&#39;</span> <span class=pl-kos>}</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L138" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="138"></td>
-          <td id="LC138" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// wait until the video stream is ready</span></td>
+          <td id="LC138" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L139" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="139"></td>
-          <td id="LC139" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>interval</span> <span class=pl-c1>=</span> <span class=pl-en>setInterval</span><span class=pl-kos>(</span><span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+          <td id="LC139" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>return</span></td>
         </tr>
         <tr>
           <td id="L140" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="140"></td>
-          <td id="LC140" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-c1>!</span><span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>videoWidth</span><span class=pl-kos>)</span>	<span class=pl-k>return</span><span class=pl-kos>;</span></td>
+          <td id="LC140" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L141" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="141"></td>
-          <td id="LC141" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>onReady</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
+          <td id="LC141" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>function</span> <span class=pl-en>snapDirectlyToTarget</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L142" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="142"></td>
-          <td id="LC142" class="blob-code blob-code-inner js-file-line">		<span class=pl-en>clearInterval</span><span class=pl-kos>(</span><span class=pl-s1>interval</span><span class=pl-kos>)</span></td>
+          <td id="LC142" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>object3d</span><span class=pl-kos>.</span><span class=pl-c1>position</span><span class=pl-kos>.</span><span class=pl-en>copy</span><span class=pl-kos>(</span> <span class=pl-s1>targetObject3d</span><span class=pl-kos>.</span><span class=pl-c1>position</span> <span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L143" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="143"></td>
-          <td id="LC143" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-kos>,</span> <span class=pl-c1>1000</span><span class=pl-c1>/</span><span class=pl-c1>50</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC143" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>object3d</span><span class=pl-kos>.</span><span class=pl-c1>quaternion</span><span class=pl-kos>.</span><span class=pl-en>copy</span><span class=pl-kos>(</span> <span class=pl-s1>targetObject3d</span><span class=pl-kos>.</span><span class=pl-c1>quaternion</span> <span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L144" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="144"></td>
-          <td id="LC144" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>return</span> <span class=pl-s1>domElement</span></td>
+          <td id="LC144" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>object3d</span><span class=pl-kos>.</span><span class=pl-c1>scale</span><span class=pl-kos>.</span><span class=pl-en>copy</span><span class=pl-kos>(</span> <span class=pl-s1>targetObject3d</span><span class=pl-kos>.</span><span class=pl-c1>scale</span> <span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L145" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="145"></td>
-          <td id="LC145" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+          <td id="LC145" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span>	</td>
         </tr>
         <tr>
           <td id="L146" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="146"></td>
-          <td id="LC146" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC146" class="blob-code blob-code-inner js-file-line">	</td>
         </tr>
         <tr>
           <td id="L147" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="147"></td>
-          <td id="LC147" class="blob-code blob-code-inner js-file-line"><span class=pl-c>////////////////////////////////////////////////////////////////////////////////</span></td>
+          <td id="LC147" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>function</span> <span class=pl-en>applyOneSlerpStep</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L148" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="148"></td>
-          <td id="LC148" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//          handle webcam source</span></td>
+          <td id="LC148" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>object3d</span><span class=pl-kos>.</span><span class=pl-c1>position</span><span class=pl-kos>.</span><span class=pl-en>lerp</span><span class=pl-kos>(</span><span class=pl-s1>targetObject3d</span><span class=pl-kos>.</span><span class=pl-c1>position</span><span class=pl-kos>,</span> <span class=pl-s1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>lerpPosition</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L149" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="149"></td>
-          <td id="LC149" class="blob-code blob-code-inner js-file-line"><span class=pl-c>////////////////////////////////////////////////////////////////////////////////</span></td>
+          <td id="LC149" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>object3d</span><span class=pl-kos>.</span><span class=pl-c1>quaternion</span><span class=pl-kos>.</span><span class=pl-en>slerp</span><span class=pl-kos>(</span><span class=pl-s1>targetObject3d</span><span class=pl-kos>.</span><span class=pl-c1>quaternion</span><span class=pl-kos>,</span> <span class=pl-s1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>lerpQuaternion</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L150" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="150"></td>
-          <td id="LC150" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC150" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>object3d</span><span class=pl-kos>.</span><span class=pl-c1>scale</span><span class=pl-kos>.</span><span class=pl-en>lerp</span><span class=pl-kos>(</span><span class=pl-s1>targetObject3d</span><span class=pl-kos>.</span><span class=pl-c1>scale</span><span class=pl-kos>,</span> <span class=pl-s1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>lerpScale</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L151" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="151"></td>
-          <td id="LC151" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ARjs</span><span class=pl-kos>.</span><span class=pl-c1>Source</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-en>_initSourceWebcam</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>onReady</span><span class=pl-kos>,</span> <span class=pl-s1>onError</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+          <td id="LC151" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L152" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="152"></td>
-          <td id="LC152" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>_this</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span></td>
-        </tr>
-        <tr>
-          <td id="L153" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="153"></td>
-          <td id="LC153" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L154" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="154"></td>
-          <td id="LC154" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// init default value</span></td>
-        </tr>
-        <tr>
-          <td id="L155" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="155"></td>
-          <td id="LC155" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>onError</span> <span class=pl-c1>=</span> <span class=pl-s1>onError</span> <span class=pl-c1>||</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>error</span><span class=pl-kos>)</span><span class=pl-kos>{</span>	</td>
-        </tr>
-        <tr>
-          <td id="L156" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="156"></td>
-          <td id="LC156" class="blob-code blob-code-inner js-file-line">		<span class=pl-en>alert</span><span class=pl-kos>(</span><span class=pl-s>&#39;Webcam Error\nName: &#39;</span><span class=pl-c1>+</span><span class=pl-s1>error</span><span class=pl-kos>.</span><span class=pl-c1>name</span> <span class=pl-c1>+</span> <span class=pl-s>&#39;\nMessage: &#39;</span><span class=pl-c1>+</span><span class=pl-s1>error</span><span class=pl-kos>.</span><span class=pl-c1>message</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L157" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="157"></td>
-          <td id="LC157" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L158" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="158"></td>
-          <td id="LC158" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L159" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="159"></td>
-          <td id="LC159" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>domElement</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>createElement</span><span class=pl-kos>(</span><span class=pl-s>&#39;video&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L160" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="160"></td>
-          <td id="LC160" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-en>setAttribute</span><span class=pl-kos>(</span><span class=pl-s>&#39;autoplay&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L161" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="161"></td>
-          <td id="LC161" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-en>setAttribute</span><span class=pl-kos>(</span><span class=pl-s>&#39;muted&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L162" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="162"></td>
-          <td id="LC162" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-en>setAttribute</span><span class=pl-kos>(</span><span class=pl-s>&#39;playsinline&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L163" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="163"></td>
-          <td id="LC163" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>width</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>displayWidth</span><span class=pl-c1>+</span><span class=pl-s>&#39;px&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L164" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="164"></td>
-          <td id="LC164" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>height</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>displayHeight</span><span class=pl-c1>+</span><span class=pl-s>&#39;px&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L165" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="165"></td>
-          <td id="LC165" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L166" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="166"></td>
-          <td id="LC166" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// check API is available</span></td>
-        </tr>
-        <tr>
-          <td id="L167" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="167"></td>
-          <td id="LC167" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>navigator</span><span class=pl-kos>.</span><span class=pl-c1>mediaDevices</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> </td>
-        </tr>
-        <tr>
-          <td id="L168" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="168"></td>
-          <td id="LC168" class="blob-code blob-code-inner js-file-line">			<span class=pl-c1>||</span> <span class=pl-s1>navigator</span><span class=pl-kos>.</span><span class=pl-c1>mediaDevices</span><span class=pl-kos>.</span><span class=pl-c1>enumerateDevices</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> </td>
-        </tr>
-        <tr>
-          <td id="L169" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="169"></td>
-          <td id="LC169" class="blob-code blob-code-inner js-file-line">			<span class=pl-c1>||</span> <span class=pl-s1>navigator</span><span class=pl-kos>.</span><span class=pl-c1>mediaDevices</span><span class=pl-kos>.</span><span class=pl-c1>getUserMedia</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span>  <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L170" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="170"></td>
-          <td id="LC170" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>navigator</span><span class=pl-kos>.</span><span class=pl-c1>mediaDevices</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> <span class=pl-kos>)</span>				<span class=pl-k>var</span> <span class=pl-s1>fctName</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;navigator.mediaDevices&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L171" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="171"></td>
-          <td id="LC171" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>else</span> <span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>navigator</span><span class=pl-kos>.</span><span class=pl-c1>mediaDevices</span><span class=pl-kos>.</span><span class=pl-c1>enumerateDevices</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> <span class=pl-kos>)</span>	<span class=pl-k>var</span> <span class=pl-s1>fctName</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;navigator.mediaDevices.enumerateDevices&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L172" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="172"></td>
-          <td id="LC172" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>else</span> <span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>navigator</span><span class=pl-kos>.</span><span class=pl-c1>mediaDevices</span><span class=pl-kos>.</span><span class=pl-c1>getUserMedia</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> <span class=pl-kos>)</span>		<span class=pl-k>var</span> <span class=pl-s1>fctName</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;navigator.mediaDevices.getUserMedia&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L173" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="173"></td>
-          <td id="LC173" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>else</span> <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>assert</span><span class=pl-kos>(</span><span class=pl-c1>false</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L174" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="174"></td>
-          <td id="LC174" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>onError</span><span class=pl-kos>(</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L175" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="175"></td>
-          <td id="LC175" class="blob-code blob-code-inner js-file-line">			<span class=pl-c1>name</span>: <span class=pl-s>&#39;&#39;</span><span class=pl-kos>,</span></td>
-        </tr>
-        <tr>
-          <td id="L176" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="176"></td>
-          <td id="LC176" class="blob-code blob-code-inner js-file-line">			<span class=pl-c1>message</span>: <span class=pl-s>&#39;WebRTC issue-! &#39;</span><span class=pl-c1>+</span><span class=pl-s1>fctName</span><span class=pl-c1>+</span><span class=pl-s>&#39; not present in your browser&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L177" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="177"></td>
-          <td id="LC177" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L178" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="178"></td>
-          <td id="LC178" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>return</span> <span class=pl-c1>null</span></td>
-        </tr>
-        <tr>
-          <td id="L179" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="179"></td>
-          <td id="LC179" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L180" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="180"></td>
-          <td id="LC180" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L181" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="181"></td>
-          <td id="LC181" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// get available devices</span></td>
-        </tr>
-        <tr>
-          <td id="L182" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="182"></td>
-          <td id="LC182" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>navigator</span><span class=pl-kos>.</span><span class=pl-c1>mediaDevices</span><span class=pl-kos>.</span><span class=pl-en>enumerateDevices</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>then</span><span class=pl-kos>(</span><span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>devices</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L183" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="183"></td>
-          <td id="LC183" class="blob-code blob-code-inner js-file-line">                <span class=pl-k>var</span> <span class=pl-s1>userMediaConstraints</span> <span class=pl-c1>=</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L184" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="184"></td>
-          <td id="LC184" class="blob-code blob-code-inner js-file-line">			<span class=pl-c1>audio</span>: <span class=pl-c1>false</span><span class=pl-kos>,</span></td>
-        </tr>
-        <tr>
-          <td id="L185" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="185"></td>
-          <td id="LC185" class="blob-code blob-code-inner js-file-line">			<span class=pl-c1>video</span>: <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L186" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="186"></td>
-          <td id="LC186" class="blob-code blob-code-inner js-file-line">				<span class=pl-c1>facingMode</span>: <span class=pl-s>&#39;environment&#39;</span><span class=pl-kos>,</span></td>
-        </tr>
-        <tr>
-          <td id="L187" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="187"></td>
-          <td id="LC187" class="blob-code blob-code-inner js-file-line">				<span class=pl-c1>width</span>: <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L188" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="188"></td>
-          <td id="LC188" class="blob-code blob-code-inner js-file-line">					<span class=pl-c1>ideal</span>: <span class=pl-s1>_this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>sourceWidth</span><span class=pl-kos>,</span></td>
-        </tr>
-        <tr>
-          <td id="L189" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="189"></td>
-          <td id="LC189" class="blob-code blob-code-inner js-file-line">					<span class=pl-c>// min: 1024,</span></td>
-        </tr>
-        <tr>
-          <td id="L190" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="190"></td>
-          <td id="LC190" class="blob-code blob-code-inner js-file-line">					<span class=pl-c>// max: 1920</span></td>
-        </tr>
-        <tr>
-          <td id="L191" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="191"></td>
-          <td id="LC191" class="blob-code blob-code-inner js-file-line">				<span class=pl-kos>}</span><span class=pl-kos>,</span></td>
-        </tr>
-        <tr>
-          <td id="L192" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="192"></td>
-          <td id="LC192" class="blob-code blob-code-inner js-file-line">				<span class=pl-c1>height</span>: <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L193" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="193"></td>
-          <td id="LC193" class="blob-code blob-code-inner js-file-line">					<span class=pl-c1>ideal</span>: <span class=pl-s1>_this</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>sourceHeight</span><span class=pl-kos>,</span></td>
-        </tr>
-        <tr>
-          <td id="L194" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="194"></td>
-          <td id="LC194" class="blob-code blob-code-inner js-file-line">					<span class=pl-c>// min: 776,</span></td>
-        </tr>
-        <tr>
-          <td id="L195" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="195"></td>
-          <td id="LC195" class="blob-code blob-code-inner js-file-line">					<span class=pl-c>// max: 1080</span></td>
-        </tr>
-        <tr>
-          <td id="L196" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="196"></td>
-          <td id="LC196" class="blob-code blob-code-inner js-file-line">				<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L197" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="197"></td>
-          <td id="LC197" class="blob-code blob-code-inner js-file-line">		  	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L198" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="198"></td>
-          <td id="LC198" class="blob-code blob-code-inner js-file-line">                <span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L199" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="199"></td>
-          <td id="LC199" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// get a device which satisfy the constraints</span></td>
-        </tr>
-        <tr>
-          <td id="L200" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="200"></td>
-          <td id="LC200" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>navigator</span><span class=pl-kos>.</span><span class=pl-c1>mediaDevices</span><span class=pl-kos>.</span><span class=pl-en>getUserMedia</span><span class=pl-kos>(</span><span class=pl-s1>userMediaConstraints</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>then</span><span class=pl-kos>(</span><span class=pl-k>function</span> <span class=pl-en>success</span><span class=pl-kos>(</span><span class=pl-s1>stream</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L201" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="201"></td>
-          <td id="LC201" class="blob-code blob-code-inner js-file-line">			<span class=pl-c>// set the .src of the domElement</span></td>
-        </tr>
-        <tr>
-          <td id="L202" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="202"></td>
-          <td id="LC202" class="blob-code blob-code-inner js-file-line">			<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>srcObject</span> <span class=pl-c1>=</span> <span class=pl-s1>stream</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L203" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="203"></td>
-          <td id="LC203" class="blob-code blob-code-inner js-file-line">			<span class=pl-c>// to start the video, when it is possible to start it only on userevent. like in android</span></td>
-        </tr>
-        <tr>
-          <td id="L204" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="204"></td>
-          <td id="LC204" class="blob-code blob-code-inner js-file-line">			<span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-c1>body</span><span class=pl-kos>.</span><span class=pl-en>addEventListener</span><span class=pl-kos>(</span><span class=pl-s>&#39;click&#39;</span><span class=pl-kos>,</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L205" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="205"></td>
-          <td id="LC205" class="blob-code blob-code-inner js-file-line">				<span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-en>play</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L206" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="206"></td>
-          <td id="LC206" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>}</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L207" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="207"></td>
-          <td id="LC207" class="blob-code blob-code-inner js-file-line">			<span class=pl-c>// domElement.play();</span></td>
-        </tr>
-        <tr>
-          <td id="L208" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="208"></td>
-          <td id="LC208" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L209" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="209"></td>
-          <td id="LC209" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// TODO listen to loadedmetadata instead</span></td>
-        </tr>
-        <tr>
-          <td id="L210" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="210"></td>
-          <td id="LC210" class="blob-code blob-code-inner js-file-line">			<span class=pl-c>// wait until the video stream is ready</span></td>
-        </tr>
-        <tr>
-          <td id="L211" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="211"></td>
-          <td id="LC211" class="blob-code blob-code-inner js-file-line">			<span class=pl-k>var</span> <span class=pl-s1>interval</span> <span class=pl-c1>=</span> <span class=pl-en>setInterval</span><span class=pl-kos>(</span><span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L212" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="212"></td>
-          <td id="LC212" class="blob-code blob-code-inner js-file-line">				<span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-c1>!</span><span class=pl-s1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>videoWidth</span><span class=pl-kos>)</span>	<span class=pl-k>return</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L213" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="213"></td>
-          <td id="LC213" class="blob-code blob-code-inner js-file-line">				<span class=pl-s1>onReady</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L214" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="214"></td>
-          <td id="LC214" class="blob-code blob-code-inner js-file-line">				<span class=pl-en>clearInterval</span><span class=pl-kos>(</span><span class=pl-s1>interval</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L215" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="215"></td>
-          <td id="LC215" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>}</span><span class=pl-kos>,</span> <span class=pl-c1>1000</span><span class=pl-c1>/</span><span class=pl-c1>50</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L216" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="216"></td>
-          <td id="LC216" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>catch</span><span class=pl-kos>(</span><span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>error</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L217" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="217"></td>
-          <td id="LC217" class="blob-code blob-code-inner js-file-line">			<span class=pl-s1>onError</span><span class=pl-kos>(</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L218" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="218"></td>
-          <td id="LC218" class="blob-code blob-code-inner js-file-line">				<span class=pl-c1>name</span>: <span class=pl-s1>error</span><span class=pl-kos>.</span><span class=pl-c1>name</span><span class=pl-kos>,</span></td>
-        </tr>
-        <tr>
-          <td id="L219" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="219"></td>
-          <td id="LC219" class="blob-code blob-code-inner js-file-line">				<span class=pl-c1>message</span>: <span class=pl-s1>error</span><span class=pl-kos>.</span><span class=pl-c1>message</span></td>
-        </tr>
-        <tr>
-          <td id="L220" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="220"></td>
-          <td id="LC220" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L221" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="221"></td>
-          <td id="LC221" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L222" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="222"></td>
-          <td id="LC222" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>catch</span><span class=pl-kos>(</span><span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>error</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L223" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="223"></td>
-          <td id="LC223" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>onError</span><span class=pl-kos>(</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L224" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="224"></td>
-          <td id="LC224" class="blob-code blob-code-inner js-file-line">			<span class=pl-c1>message</span>: <span class=pl-s1>error</span><span class=pl-kos>.</span><span class=pl-c1>message</span></td>
-        </tr>
-        <tr>
-          <td id="L225" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="225"></td>
-          <td id="LC225" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L226" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="226"></td>
-          <td id="LC226" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L227" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="227"></td>
-          <td id="LC227" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L228" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="228"></td>
-          <td id="LC228" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>return</span> <span class=pl-s1>domElement</span></td>
-        </tr>
-        <tr>
-          <td id="L229" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="229"></td>
-          <td id="LC229" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L230" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="230"></td>
-          <td id="LC230" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L231" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="231"></td>
-          <td id="LC231" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
-        </tr>
-        <tr>
-          <td id="L232" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="232"></td>
-          <td id="LC232" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//		Handle Mobile Torch</span></td>
-        </tr>
-        <tr>
-          <td id="L233" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="233"></td>
-          <td id="LC233" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
-        </tr>
-        <tr>
-          <td id="L234" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="234"></td>
-          <td id="LC234" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ARjs</span><span class=pl-kos>.</span><span class=pl-c1>Source</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-en>hasMobileTorch</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L235" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="235"></td>
-          <td id="LC235" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>stream</span> <span class=pl-c1>=</span> <span class=pl-s1>arToolkitSource</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>srcObject</span></td>
-        </tr>
-        <tr>
-          <td id="L236" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="236"></td>
-          <td id="LC236" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>stream</span> <span class=pl-k>instanceof</span> <span class=pl-v>MediaStream</span> <span class=pl-c1>===</span> <span class=pl-c1>false</span> <span class=pl-kos>)</span>	<span class=pl-k>return</span> <span class=pl-c1>false</span></td>
-        </tr>
-        <tr>
-          <td id="L237" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="237"></td>
-          <td id="LC237" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L238" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="238"></td>
-          <td id="LC238" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_currentTorchStatus</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L239" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="239"></td>
-          <td id="LC239" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_currentTorchStatus</span> <span class=pl-c1>=</span> <span class=pl-c1>false</span></td>
-        </tr>
-        <tr>
-          <td id="L240" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="240"></td>
-          <td id="LC240" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L241" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="241"></td>
-          <td id="LC241" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L242" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="242"></td>
-          <td id="LC242" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>videoTrack</span> <span class=pl-c1>=</span> <span class=pl-s1>stream</span><span class=pl-kos>.</span><span class=pl-en>getVideoTracks</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L243" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="243"></td>
-          <td id="LC243" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L244" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="244"></td>
-          <td id="LC244" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// if videoTrack.getCapabilities() doesnt exist, return false now</span></td>
-        </tr>
-        <tr>
-          <td id="L245" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="245"></td>
-          <td id="LC245" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>videoTrack</span><span class=pl-kos>.</span><span class=pl-c1>getCapabilities</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> <span class=pl-kos>)</span>	<span class=pl-k>return</span> <span class=pl-c1>false</span></td>
-        </tr>
-        <tr>
-          <td id="L246" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="246"></td>
-          <td id="LC246" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L247" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="247"></td>
-          <td id="LC247" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>capabilities</span> <span class=pl-c1>=</span> <span class=pl-s1>videoTrack</span><span class=pl-kos>.</span><span class=pl-en>getCapabilities</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L248" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="248"></td>
-          <td id="LC248" class="blob-code blob-code-inner js-file-line">	</td>
-        </tr>
-        <tr>
-          <td id="L249" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="249"></td>
-          <td id="LC249" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>return</span> <span class=pl-s1>capabilities</span><span class=pl-kos>.</span><span class=pl-c1>torch</span> ? <span class=pl-c1>true</span> : <span class=pl-c1>false</span></td>
-        </tr>
-        <tr>
-          <td id="L250" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="250"></td>
-          <td id="LC250" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L251" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="251"></td>
-          <td id="LC251" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L252" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="252"></td>
-          <td id="LC252" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/**</span></td>
-        </tr>
-        <tr>
-          <td id="L253" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="253"></td>
-          <td id="LC253" class="blob-code blob-code-inner js-file-line"><span class=pl-c> * toggle the flash/torch of the mobile fun if applicable.</span></td>
-        </tr>
-        <tr>
-          <td id="L254" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="254"></td>
-          <td id="LC254" class="blob-code blob-code-inner js-file-line"><span class=pl-c> * Great post about it https://www.oberhofer.co/mediastreamtrack-and-its-capabilities/</span></td>
-        </tr>
-        <tr>
-          <td id="L255" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="255"></td>
-          <td id="LC255" class="blob-code blob-code-inner js-file-line"><span class=pl-c> */</span></td>
-        </tr>
-        <tr>
-          <td id="L256" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="256"></td>
-          <td id="LC256" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ARjs</span><span class=pl-kos>.</span><span class=pl-c1>Source</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-en>toggleMobileTorch</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L257" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="257"></td>
-          <td id="LC257" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// sanity check</span></td>
-        </tr>
-        <tr>
-          <td id="L258" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="258"></td>
-          <td id="LC258" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>assert</span><span class=pl-kos>(</span><span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-en>hasMobileTorch</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-c1>===</span> <span class=pl-c1>true</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L259" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="259"></td>
-          <td id="LC259" class="blob-code blob-code-inner js-file-line">		</td>
-        </tr>
-        <tr>
-          <td id="L260" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="260"></td>
-          <td id="LC260" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>stream</span> <span class=pl-c1>=</span> <span class=pl-s1>arToolkitSource</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>srcObject</span></td>
-        </tr>
-        <tr>
-          <td id="L261" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="261"></td>
-          <td id="LC261" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>stream</span> <span class=pl-k>instanceof</span> <span class=pl-v>MediaStream</span> <span class=pl-c1>===</span> <span class=pl-c1>false</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L262" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="262"></td>
-          <td id="LC262" class="blob-code blob-code-inner js-file-line">		<span class=pl-en>alert</span><span class=pl-kos>(</span><span class=pl-s>&#39;enabling mobile torch is available only on webcam&#39;</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L263" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="263"></td>
-          <td id="LC263" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>return</span></td>
-        </tr>
-        <tr>
-          <td id="L264" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="264"></td>
-          <td id="LC264" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L265" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="265"></td>
-          <td id="LC265" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L266" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="266"></td>
-          <td id="LC266" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_currentTorchStatus</span> <span class=pl-c1>===</span> <span class=pl-c1>undefined</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L267" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="267"></td>
-          <td id="LC267" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_currentTorchStatus</span> <span class=pl-c1>=</span> <span class=pl-c1>false</span></td>
-        </tr>
-        <tr>
-          <td id="L268" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="268"></td>
-          <td id="LC268" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L269" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="269"></td>
-          <td id="LC269" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L270" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="270"></td>
-          <td id="LC270" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>videoTrack</span> <span class=pl-c1>=</span> <span class=pl-s1>stream</span><span class=pl-kos>.</span><span class=pl-en>getVideoTracks</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L271" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="271"></td>
-          <td id="LC271" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>capabilities</span> <span class=pl-c1>=</span> <span class=pl-s1>videoTrack</span><span class=pl-kos>.</span><span class=pl-en>getCapabilities</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L272" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="272"></td>
-          <td id="LC272" class="blob-code blob-code-inner js-file-line">	</td>
-        </tr>
-        <tr>
-          <td id="L273" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="273"></td>
-          <td id="LC273" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-c1>!</span><span class=pl-s1>capabilities</span><span class=pl-kos>.</span><span class=pl-c1>torch</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L274" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="274"></td>
-          <td id="LC274" class="blob-code blob-code-inner js-file-line">		<span class=pl-en>alert</span><span class=pl-kos>(</span><span class=pl-s>&#39;no mobile torch is available on your camera&#39;</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L275" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="275"></td>
-          <td id="LC275" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>return</span></td>
-        </tr>
-        <tr>
-          <td id="L276" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="276"></td>
-          <td id="LC276" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L277" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="277"></td>
-          <td id="LC277" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L278" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="278"></td>
-          <td id="LC278" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_currentTorchStatus</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_currentTorchStatus</span> <span class=pl-c1>===</span> <span class=pl-c1>false</span> ? <span class=pl-c1>true</span> : <span class=pl-c1>false</span></td>
-        </tr>
-        <tr>
-          <td id="L279" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="279"></td>
-          <td id="LC279" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>videoTrack</span><span class=pl-kos>.</span><span class=pl-en>applyConstraints</span><span class=pl-kos>(</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L280" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="280"></td>
-          <td id="LC280" class="blob-code blob-code-inner js-file-line">		<span class=pl-c1>advanced</span>: <span class=pl-kos>[</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L281" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="281"></td>
-          <td id="LC281" class="blob-code blob-code-inner js-file-line">			<span class=pl-c1>torch</span>: <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>_currentTorchStatus</span></td>
-        </tr>
-        <tr>
-          <td id="L282" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="282"></td>
-          <td id="LC282" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span><span class=pl-kos>]</span></td>
-        </tr>
-        <tr>
-          <td id="L283" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="283"></td>
-          <td id="LC283" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>catch</span><span class=pl-kos>(</span><span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>error</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L284" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="284"></td>
-          <td id="LC284" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s1>error</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L285" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="285"></td>
-          <td id="LC285" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L286" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="286"></td>
-          <td id="LC286" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L287" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="287"></td>
-          <td id="LC287" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L288" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="288"></td>
-          <td id="LC288" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ARjs</span><span class=pl-kos>.</span><span class=pl-c1>Source</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-en>domElementWidth</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L289" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="289"></td>
-          <td id="LC289" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>return</span> <span class=pl-en>parseInt</span><span class=pl-kos>(</span><span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>width</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L290" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="290"></td>
-          <td id="LC290" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L291" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="291"></td>
-          <td id="LC291" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ARjs</span><span class=pl-kos>.</span><span class=pl-c1>Source</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-en>domElementHeight</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L292" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="292"></td>
-          <td id="LC292" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>return</span> <span class=pl-en>parseInt</span><span class=pl-kos>(</span><span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>height</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L293" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="293"></td>
-          <td id="LC293" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L294" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="294"></td>
-          <td id="LC294" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L295" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="295"></td>
-          <td id="LC295" class="blob-code blob-code-inner js-file-line"><span class=pl-c>////////////////////////////////////////////////////////////////////////////////</span></td>
-        </tr>
-        <tr>
-          <td id="L296" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="296"></td>
-          <td id="LC296" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//          handle resize</span></td>
-        </tr>
-        <tr>
-          <td id="L297" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="297"></td>
-          <td id="LC297" class="blob-code blob-code-inner js-file-line"><span class=pl-c>////////////////////////////////////////////////////////////////////////////////</span></td>
-        </tr>
-        <tr>
-          <td id="L298" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="298"></td>
-          <td id="LC298" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L299" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="299"></td>
-          <td id="LC299" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ARjs</span><span class=pl-kos>.</span><span class=pl-c1>Source</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-en>onResizeElement</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L300" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="300"></td>
-          <td id="LC300" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>_this</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span></td>
-        </tr>
-        <tr>
-          <td id="L301" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="301"></td>
-          <td id="LC301" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>screenWidth</span> <span class=pl-c1>=</span> <span class=pl-smi>window</span><span class=pl-kos>.</span><span class=pl-c1>innerWidth</span></td>
-        </tr>
-        <tr>
-          <td id="L302" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="302"></td>
-          <td id="LC302" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>screenHeight</span> <span class=pl-c1>=</span> <span class=pl-smi>window</span><span class=pl-kos>.</span><span class=pl-c1>innerHeight</span></td>
-        </tr>
-        <tr>
-          <td id="L303" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="303"></td>
-          <td id="LC303" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L304" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="304"></td>
-          <td id="LC304" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// sanity check</span></td>
-        </tr>
-        <tr>
-          <td id="L305" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="305"></td>
-          <td id="LC305" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>assert</span><span class=pl-kos>(</span> <span class=pl-smi>arguments</span><span class=pl-kos>.</span><span class=pl-c1>length</span> <span class=pl-c1>===</span> <span class=pl-c1>0</span> <span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L306" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="306"></td>
-          <td id="LC306" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L307" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="307"></td>
-          <td id="LC307" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// compute sourceWidth, sourceHeight</span></td>
-        </tr>
-        <tr>
-          <td id="L308" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="308"></td>
-          <td id="LC308" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>nodeName</span> <span class=pl-c1>===</span> <span class=pl-s>&quot;IMG&quot;</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L309" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="309"></td>
-          <td id="LC309" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>var</span> <span class=pl-s1>sourceWidth</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>naturalWidth</span></td>
-        </tr>
-        <tr>
-          <td id="L310" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="310"></td>
-          <td id="LC310" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>var</span> <span class=pl-s1>sourceHeight</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>naturalHeight</span></td>
-        </tr>
-        <tr>
-          <td id="L311" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="311"></td>
-          <td id="LC311" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>nodeName</span> <span class=pl-c1>===</span> <span class=pl-s>&quot;VIDEO&quot;</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L312" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="312"></td>
-          <td id="LC312" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>var</span> <span class=pl-s1>sourceWidth</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>videoWidth</span></td>
-        </tr>
-        <tr>
-          <td id="L313" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="313"></td>
-          <td id="LC313" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>var</span> <span class=pl-s1>sourceHeight</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>videoHeight</span></td>
-        </tr>
-        <tr>
-          <td id="L314" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="314"></td>
-          <td id="LC314" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-k>else</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L315" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="315"></td>
-          <td id="LC315" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>assert</span><span class=pl-kos>(</span><span class=pl-c1>false</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L316" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="316"></td>
-          <td id="LC316" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L317" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="317"></td>
-          <td id="LC317" class="blob-code blob-code-inner js-file-line">	</td>
-        </tr>
-        <tr>
-          <td id="L318" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="318"></td>
-          <td id="LC318" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// compute sourceAspect</span></td>
-        </tr>
-        <tr>
-          <td id="L319" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="319"></td>
-          <td id="LC319" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>sourceAspect</span> <span class=pl-c1>=</span> <span class=pl-s1>sourceWidth</span> <span class=pl-c1>/</span> <span class=pl-s1>sourceHeight</span></td>
-        </tr>
-        <tr>
-          <td id="L320" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="320"></td>
-          <td id="LC320" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// compute screenAspect</span></td>
-        </tr>
-        <tr>
-          <td id="L321" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="321"></td>
-          <td id="LC321" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>screenAspect</span> <span class=pl-c1>=</span> <span class=pl-s1>screenWidth</span> <span class=pl-c1>/</span> <span class=pl-s1>screenHeight</span></td>
-        </tr>
-        <tr>
-          <td id="L322" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="322"></td>
-          <td id="LC322" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L323" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="323"></td>
-          <td id="LC323" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// if screenAspect &lt; sourceAspect, then change the width, else change the height</span></td>
-        </tr>
-        <tr>
-          <td id="L324" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="324"></td>
-          <td id="LC324" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>screenAspect</span> <span class=pl-c1>&lt;</span> <span class=pl-s1>sourceAspect</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L325" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="325"></td>
-          <td id="LC325" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// compute newWidth and set .width/.marginLeft</span></td>
-        </tr>
-        <tr>
-          <td id="L326" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="326"></td>
-          <td id="LC326" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>var</span> <span class=pl-s1>newWidth</span> <span class=pl-c1>=</span> <span class=pl-s1>sourceAspect</span> <span class=pl-c1>*</span> <span class=pl-s1>screenHeight</span></td>
-        </tr>
-        <tr>
-          <td id="L327" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="327"></td>
-          <td id="LC327" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>width</span> <span class=pl-c1>=</span> <span class=pl-s1>newWidth</span><span class=pl-c1>+</span><span class=pl-s>&#39;px&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L328" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="328"></td>
-          <td id="LC328" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>marginLeft</span> <span class=pl-c1>=</span> <span class=pl-c1>-</span><span class=pl-kos>(</span><span class=pl-s1>newWidth</span><span class=pl-c1>-</span><span class=pl-s1>screenWidth</span><span class=pl-kos>)</span><span class=pl-c1>/</span><span class=pl-c1>2</span><span class=pl-c1>+</span><span class=pl-s>&#39;px&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L329" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="329"></td>
-          <td id="LC329" class="blob-code blob-code-inner js-file-line">		</td>
-        </tr>
-        <tr>
-          <td id="L330" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="330"></td>
-          <td id="LC330" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// init style.height/.marginTop to normal value</span></td>
-        </tr>
-        <tr>
-          <td id="L331" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="331"></td>
-          <td id="LC331" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>height</span> <span class=pl-c1>=</span> <span class=pl-s1>screenHeight</span><span class=pl-c1>+</span><span class=pl-s>&#39;px&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L332" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="332"></td>
-          <td id="LC332" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>marginTop</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;0px&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L333" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="333"></td>
-          <td id="LC333" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-k>else</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L334" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="334"></td>
-          <td id="LC334" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// compute newHeight and set .height/.marginTop</span></td>
-        </tr>
-        <tr>
-          <td id="L335" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="335"></td>
-          <td id="LC335" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>var</span> <span class=pl-s1>newHeight</span> <span class=pl-c1>=</span> <span class=pl-c1>1</span> <span class=pl-c1>/</span> <span class=pl-kos>(</span><span class=pl-s1>sourceAspect</span> <span class=pl-c1>/</span> <span class=pl-s1>screenWidth</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L336" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="336"></td>
-          <td id="LC336" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>height</span> <span class=pl-c1>=</span> <span class=pl-s1>newHeight</span><span class=pl-c1>+</span><span class=pl-s>&#39;px&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L337" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="337"></td>
-          <td id="LC337" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>marginTop</span> <span class=pl-c1>=</span> <span class=pl-c1>-</span><span class=pl-kos>(</span><span class=pl-s1>newHeight</span><span class=pl-c1>-</span><span class=pl-s1>screenHeight</span><span class=pl-kos>)</span><span class=pl-c1>/</span><span class=pl-c1>2</span><span class=pl-c1>+</span><span class=pl-s>&#39;px&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L338" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="338"></td>
-          <td id="LC338" class="blob-code blob-code-inner js-file-line">		</td>
-        </tr>
-        <tr>
-          <td id="L339" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="339"></td>
-          <td id="LC339" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// init style.width/.marginLeft to normal value</span></td>
-        </tr>
-        <tr>
-          <td id="L340" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="340"></td>
-          <td id="LC340" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>width</span> <span class=pl-c1>=</span> <span class=pl-s1>screenWidth</span><span class=pl-c1>+</span><span class=pl-s>&#39;px&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L341" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="341"></td>
-          <td id="LC341" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>marginLeft</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;0px&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L342" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="342"></td>
-          <td id="LC342" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L343" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="343"></td>
-          <td id="LC343" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L344" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="344"></td>
-          <td id="LC344" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/*</span></td>
-        </tr>
-        <tr>
-          <td id="L345" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="345"></td>
-          <td id="LC345" class="blob-code blob-code-inner js-file-line"><span class=pl-c>ARjs.Source.prototype.copyElementSizeTo = function(otherElement){</span></td>
-        </tr>
-        <tr>
-          <td id="L346" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="346"></td>
-          <td id="LC346" class="blob-code blob-code-inner js-file-line"><span class=pl-c>	otherElement.style.width = this.domElement.style.width</span></td>
-        </tr>
-        <tr>
-          <td id="L347" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="347"></td>
-          <td id="LC347" class="blob-code blob-code-inner js-file-line"><span class=pl-c>	otherElement.style.height = this.domElement.style.height	</span></td>
-        </tr>
-        <tr>
-          <td id="L348" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="348"></td>
-          <td id="LC348" class="blob-code blob-code-inner js-file-line"><span class=pl-c>	otherElement.style.marginLeft = this.domElement.style.marginLeft</span></td>
-        </tr>
-        <tr>
-          <td id="L349" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="349"></td>
-          <td id="LC349" class="blob-code blob-code-inner js-file-line"><span class=pl-c>	otherElement.style.marginTop = this.domElement.style.marginTop</span></td>
-        </tr>
-        <tr>
-          <td id="L350" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="350"></td>
-          <td id="LC350" class="blob-code blob-code-inner js-file-line"><span class=pl-c>}</span></td>
-        </tr>
-        <tr>
-          <td id="L351" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="351"></td>
-          <td id="LC351" class="blob-code blob-code-inner js-file-line"><span class=pl-c>*/</span></td>
-        </tr>
-        <tr>
-          <td id="L352" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="352"></td>
-          <td id="LC352" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L353" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="353"></td>
-          <td id="LC353" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ARjs</span><span class=pl-kos>.</span><span class=pl-c1>Source</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-en>copyElementSizeTo</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>otherElement</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L354" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="354"></td>
-          <td id="LC354" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L355" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="355"></td>
-          <td id="LC355" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-smi>window</span><span class=pl-kos>.</span><span class=pl-c1>innerWidth</span> <span class=pl-c1>&gt;</span> <span class=pl-smi>window</span><span class=pl-kos>.</span><span class=pl-c1>innerHeight</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L356" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="356"></td>
-          <td id="LC356" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L357" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="357"></td>
-          <td id="LC357" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>//landscape</span></td>
-        </tr>
-        <tr>
-          <td id="L358" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="358"></td>
-          <td id="LC358" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>otherElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>width</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>width</span></td>
-        </tr>
-        <tr>
-          <td id="L359" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="359"></td>
-          <td id="LC359" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>otherElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>height</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>height</span></td>
-        </tr>
-        <tr>
-          <td id="L360" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="360"></td>
-          <td id="LC360" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>otherElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>marginLeft</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>marginLeft</span></td>
-        </tr>
-        <tr>
-          <td id="L361" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="361"></td>
-          <td id="LC361" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>otherElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>marginTop</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>marginTop</span></td>
-        </tr>
-        <tr>
-          <td id="L362" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="362"></td>
-          <td id="LC362" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L363" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="363"></td>
-          <td id="LC363" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>else</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L364" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="364"></td>
-          <td id="LC364" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>//portrait</span></td>
-        </tr>
-        <tr>
-          <td id="L365" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="365"></td>
-          <td id="LC365" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>otherElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>height</span> <span class=pl-c1>=</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>height</span></td>
-        </tr>
-        <tr>
-          <td id="L366" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="366"></td>
-          <td id="LC366" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>otherElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>width</span> <span class=pl-c1>=</span> <span class=pl-kos>(</span><span class=pl-en>parseInt</span><span class=pl-kos>(</span><span class=pl-s1>otherElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>height</span><span class=pl-kos>)</span> <span class=pl-c1>*</span> <span class=pl-c1>4</span><span class=pl-c1>/</span><span class=pl-c1>3</span><span class=pl-kos>)</span><span class=pl-c1>+</span><span class=pl-s>&quot;px&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L367" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="367"></td>
-          <td id="LC367" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>otherElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>marginLeft</span> <span class=pl-c1>=</span> <span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-smi>window</span><span class=pl-kos>.</span><span class=pl-c1>innerWidth</span><span class=pl-c1>-</span> <span class=pl-en>parseInt</span><span class=pl-kos>(</span><span class=pl-s1>otherElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>width</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-c1>/</span><span class=pl-c1>2</span><span class=pl-kos>)</span><span class=pl-c1>+</span><span class=pl-s>&quot;px&quot;</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L368" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="368"></td>
-          <td id="LC368" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>otherElement</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>marginTop</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L369" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="369"></td>
-          <td id="LC369" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L370" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="370"></td>
-          <td id="LC370" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L371" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="371"></td>
-          <td id="LC371" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L372" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="372"></td>
-          <td id="LC372" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L373" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="373"></td>
-          <td id="LC373" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
-        </tr>
-        <tr>
-          <td id="L374" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="374"></td>
-          <td id="LC374" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//		Code Separator</span></td>
-        </tr>
-        <tr>
-          <td id="L375" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="375"></td>
-          <td id="LC375" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
-        </tr>
-        <tr>
-          <td id="L376" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="376"></td>
-          <td id="LC376" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L377" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="377"></td>
-          <td id="LC377" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ARjs</span><span class=pl-kos>.</span><span class=pl-c1>Source</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-en>copySizeTo</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L378" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="378"></td>
-          <td id="LC378" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>warn</span><span class=pl-kos>(</span><span class=pl-s>&#39;obsolete function arToolkitSource.copySizeTo. Use arToolkitSource.copyElementSizeTo&#39;</span> <span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L379" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="379"></td>
-          <td id="LC379" class="blob-code blob-code-inner js-file-line">	<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>copyElementSizeTo</span><span class=pl-kos>.</span><span class=pl-en>apply</span><span class=pl-kos>(</span><span class=pl-smi>this</span><span class=pl-kos>,</span> <span class=pl-smi>arguments</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L380" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="380"></td>
-          <td id="LC380" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L381" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="381"></td>
-          <td id="LC381" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L382" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="382"></td>
-          <td id="LC382" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
-        </tr>
-        <tr>
-          <td id="L383" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="383"></td>
-          <td id="LC383" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//		Code Separator</span></td>
-        </tr>
-        <tr>
-          <td id="L384" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="384"></td>
-          <td id="LC384" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//////////////////////////////////////////////////////////////////////////////</span></td>
-        </tr>
-        <tr>
-          <td id="L385" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="385"></td>
-          <td id="LC385" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L386" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="386"></td>
-          <td id="LC386" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ARjs</span><span class=pl-kos>.</span><span class=pl-c1>Source</span><span class=pl-kos>.</span><span class=pl-c1>prototype</span><span class=pl-kos>.</span><span class=pl-en>onResize</span>	<span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-s1>arToolkitContext</span><span class=pl-kos>,</span> <span class=pl-s1>renderer</span><span class=pl-kos>,</span> <span class=pl-s1>camera</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L387" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="387"></td>
-          <td id="LC387" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-smi>arguments</span><span class=pl-kos>.</span><span class=pl-c1>length</span> <span class=pl-c1>!==</span> <span class=pl-c1>3</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L388" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="388"></td>
-          <td id="LC388" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>warn</span><span class=pl-kos>(</span><span class=pl-s>&#39;obsolete function arToolkitSource.onResize. Use arToolkitSource.onResizeElement&#39;</span> <span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L389" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="389"></td>
-          <td id="LC389" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>return</span> <span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-c1>onResizeElement</span><span class=pl-kos>.</span><span class=pl-en>apply</span><span class=pl-kos>(</span><span class=pl-smi>this</span><span class=pl-kos>,</span> <span class=pl-smi>arguments</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L390" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="390"></td>
-          <td id="LC390" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L391" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="391"></td>
-          <td id="LC391" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L392" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="392"></td>
-          <td id="LC392" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>trackingBackend</span> <span class=pl-c1>=</span> <span class=pl-s1>arToolkitContext</span><span class=pl-kos>.</span><span class=pl-c1>parameters</span><span class=pl-kos>.</span><span class=pl-c1>trackingBackend</span></td>
-        </tr>
-        <tr>
-          <td id="L393" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="393"></td>
-          <td id="LC393" class="blob-code blob-code-inner js-file-line">	</td>
-        </tr>
-        <tr>
-          <td id="L394" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="394"></td>
-          <td id="LC394" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L395" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="395"></td>
-          <td id="LC395" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// RESIZE DOMELEMENT</span></td>
-        </tr>
-        <tr>
-          <td id="L396" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="396"></td>
-          <td id="LC396" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>trackingBackend</span> <span class=pl-c1>===</span> <span class=pl-s>&#39;artoolkit&#39;</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L397" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="397"></td>
-          <td id="LC397" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L398" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="398"></td>
-          <td id="LC398" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-en>onResizeElement</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L399" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="399"></td>
-          <td id="LC399" class="blob-code blob-code-inner js-file-line">		</td>
-        </tr>
-        <tr>
-          <td id="L400" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="400"></td>
-          <td id="LC400" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>var</span> <span class=pl-s1>isAframe</span> <span class=pl-c1>=</span> <span class=pl-s1>renderer</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>dataset</span><span class=pl-kos>.</span><span class=pl-c1>aframeCanvas</span> ? <span class=pl-c1>true</span> : <span class=pl-c1>false</span></td>
-        </tr>
-        <tr>
-          <td id="L401" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="401"></td>
-          <td id="LC401" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>isAframe</span> <span class=pl-c1>===</span> <span class=pl-c1>false</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L402" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="402"></td>
-          <td id="LC402" class="blob-code blob-code-inner js-file-line">			<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-en>copyElementSizeTo</span><span class=pl-kos>(</span><span class=pl-s1>renderer</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>)</span>	</td>
-        </tr>
-        <tr>
-          <td id="L403" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="403"></td>
-          <td id="LC403" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span><span class=pl-k>else</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L404" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="404"></td>
-          <td id="LC404" class="blob-code blob-code-inner js-file-line">			</td>
-        </tr>
-        <tr>
-          <td id="L405" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="405"></td>
-          <td id="LC405" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L406" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="406"></td>
-          <td id="LC406" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L407" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="407"></td>
-          <td id="LC407" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>arToolkitContext</span><span class=pl-kos>.</span><span class=pl-c1>arController</span> <span class=pl-c1>!==</span> <span class=pl-c1>null</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L408" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="408"></td>
-          <td id="LC408" class="blob-code blob-code-inner js-file-line">			<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-en>copyElementSizeTo</span><span class=pl-kos>(</span><span class=pl-s1>arToolkitContext</span><span class=pl-kos>.</span><span class=pl-c1>arController</span><span class=pl-kos>.</span><span class=pl-c1>canvas</span><span class=pl-kos>)</span>	</td>
-        </tr>
-        <tr>
-          <td id="L409" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="409"></td>
-          <td id="LC409" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L410" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="410"></td>
-          <td id="LC410" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>trackingBackend</span> <span class=pl-c1>===</span> <span class=pl-s>&#39;aruco&#39;</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L411" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="411"></td>
-          <td id="LC411" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-en>onResizeElement</span><span class=pl-kos>(</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L412" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="412"></td>
-          <td id="LC412" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-en>copyElementSizeTo</span><span class=pl-kos>(</span><span class=pl-s1>renderer</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>)</span>	</td>
-        </tr>
-        <tr>
-          <td id="L413" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="413"></td>
-          <td id="LC413" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L414" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="414"></td>
-          <td id="LC414" class="blob-code blob-code-inner js-file-line">		<span class=pl-smi>this</span><span class=pl-kos>.</span><span class=pl-en>copyElementSizeTo</span><span class=pl-kos>(</span><span class=pl-s1>arToolkitContext</span><span class=pl-kos>.</span><span class=pl-c1>arucoContext</span><span class=pl-kos>.</span><span class=pl-c1>canvas</span><span class=pl-kos>)</span>	</td>
-        </tr>
-        <tr>
-          <td id="L415" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="415"></td>
-          <td id="LC415" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>trackingBackend</span> <span class=pl-c1>===</span> <span class=pl-s>&#39;tango&#39;</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L416" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="416"></td>
-          <td id="LC416" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>renderer</span><span class=pl-kos>.</span><span class=pl-en>setSize</span><span class=pl-kos>(</span> <span class=pl-smi>window</span><span class=pl-kos>.</span><span class=pl-c1>innerWidth</span><span class=pl-kos>,</span> <span class=pl-smi>window</span><span class=pl-kos>.</span><span class=pl-c1>innerHeight</span> <span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L417" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="417"></td>
-          <td id="LC417" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>assert</span><span class=pl-kos>(</span><span class=pl-c1>false</span><span class=pl-kos>,</span> <span class=pl-s>&#39;unhandled trackingBackend &#39;</span><span class=pl-c1>+</span><span class=pl-s1>trackingBackend</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L418" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="418"></td>
-          <td id="LC418" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L419" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="419"></td>
-          <td id="LC419" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L420" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="420"></td>
-          <td id="LC420" class="blob-code blob-code-inner js-file-line">	<span class=pl-c>// UPDATE CAMERA</span></td>
-        </tr>
-        <tr>
-          <td id="L421" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="421"></td>
-          <td id="LC421" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>trackingBackend</span> <span class=pl-c1>===</span> <span class=pl-s>&#39;artoolkit&#39;</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L422" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="422"></td>
-          <td id="LC422" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>arToolkitContext</span><span class=pl-kos>.</span><span class=pl-c1>arController</span> <span class=pl-c1>!==</span> <span class=pl-c1>null</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L423" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="423"></td>
-          <td id="LC423" class="blob-code blob-code-inner js-file-line">			<span class=pl-s1>camera</span><span class=pl-kos>.</span><span class=pl-c1>projectionMatrix</span><span class=pl-kos>.</span><span class=pl-en>copy</span><span class=pl-kos>(</span> <span class=pl-s1>arToolkitContext</span><span class=pl-kos>.</span><span class=pl-en>getProjectionMatrix</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>)</span><span class=pl-kos>;</span>			</td>
-        </tr>
-        <tr>
-          <td id="L424" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="424"></td>
-          <td id="LC424" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L425" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="425"></td>
-          <td id="LC425" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>trackingBackend</span> <span class=pl-c1>===</span> <span class=pl-s>&#39;aruco&#39;</span> <span class=pl-kos>)</span><span class=pl-kos>{</span>	</td>
-        </tr>
-        <tr>
-          <td id="L426" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="426"></td>
-          <td id="LC426" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>camera</span><span class=pl-kos>.</span><span class=pl-c1>aspect</span> <span class=pl-c1>=</span> <span class=pl-s1>renderer</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>width</span> <span class=pl-c1>/</span> <span class=pl-s1>renderer</span><span class=pl-kos>.</span><span class=pl-c1>domElement</span><span class=pl-kos>.</span><span class=pl-c1>height</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L427" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="427"></td>
-          <td id="LC427" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>camera</span><span class=pl-kos>.</span><span class=pl-en>updateProjectionMatrix</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span>			</td>
-        </tr>
-        <tr>
-          <td id="L428" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="428"></td>
-          <td id="LC428" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>trackingBackend</span> <span class=pl-c1>===</span> <span class=pl-s>&#39;tango&#39;</span> <span class=pl-kos>)</span><span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L429" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="429"></td>
-          <td id="LC429" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>var</span> <span class=pl-s1>vrDisplay</span> <span class=pl-c1>=</span> <span class=pl-s1>arToolkitContext</span><span class=pl-kos>.</span><span class=pl-c1>_tangoContext</span><span class=pl-kos>.</span><span class=pl-c1>vrDisplay</span></td>
-        </tr>
-        <tr>
-          <td id="L430" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="430"></td>
-          <td id="LC430" class="blob-code blob-code-inner js-file-line">		<span class=pl-c>// make camera fit vrDisplay</span></td>
-        </tr>
-        <tr>
-          <td id="L431" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="431"></td>
-          <td id="LC431" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>if</span><span class=pl-kos>(</span> <span class=pl-s1>vrDisplay</span> <span class=pl-c1>&amp;&amp;</span> <span class=pl-s1>vrDisplay</span><span class=pl-kos>.</span><span class=pl-c1>displayName</span> <span class=pl-c1>===</span> <span class=pl-s>&quot;Tango VR Device&quot;</span> <span class=pl-kos>)</span> <span class=pl-c1>THREE</span><span class=pl-kos>.</span><span class=pl-c1>WebAR</span><span class=pl-kos>.</span><span class=pl-en>resizeVRSeeThroughCamera</span><span class=pl-kos>(</span><span class=pl-s1>vrDisplay</span><span class=pl-kos>,</span> <span class=pl-s1>camera</span><span class=pl-kos>)</span></td>
-        </tr>
-        <tr>
-          <td id="L432" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="432"></td>
-          <td id="LC432" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span><span class=pl-k>else</span> <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>assert</span><span class=pl-kos>(</span><span class=pl-c1>false</span><span class=pl-kos>,</span> <span class=pl-s>&#39;unhandled trackingBackend &#39;</span><span class=pl-c1>+</span><span class=pl-s1>trackingBackend</span><span class=pl-kos>)</span>	</td>
-        </tr>
-        <tr>
-          <td id="L433" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="433"></td>
-          <td id="LC433" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+          <td id="LC152" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
         </tr>
   </table>
 </div>
@@ -4693,7 +3452,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/stemkoski/AR-Examples/blame/c05f51cee5ec4df212aca686f89698d321c2e978/threex/threex-artoolkitsource.js">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/stemkoski/AR-Examples/blame/c05f51cee5ec4df212aca686f89698d321c2e978/threex/threex-arsmoothedcontrols.js">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/stemkoski/AR-Examples/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
