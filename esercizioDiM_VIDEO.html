@@ -1,80 +1,43 @@
-<script src="https://cdn.jsdelivr.net/gh/aframevr/aframe@1c2407b26c61958baa93967b5412487cd94b290b/dist/aframe-master.min.js"></script>
+<!DOCTYPE html>
+<html>
+<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+<!-- we import arjs version without NFT but with marker + location based support -->
+<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
 
-<!--<script src='https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js'></script>-->
-<script src='https://github.com/AR-js-org/AR.js/blob/a44af168260c46ac68a3f406f00651ea7f43ca9b/aframe/build/aframe-ar-nft.js'></script>
+<head>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+</head>
 
-<script>
-    window.onload = function() {
-        AFRAME.registerComponent('videohandler', {
-            init: function () {
-                var marker = this.el;
+<body>
 
-                this.vid = document.querySelector("#vid");
+    <button class="button">Info</button>
 
-                marker.addEventListener('markerFound', function () {
-                    this.vid.play();
-                }.bind(this));
+    <a-scene vr-mode-ui="enabled: false" embedded arjs>
 
-		marker.addEventListener('markerLost', function() {
-			this.vid.pause();
-			this.vid.currentTime = 0;
-		}.bind(this));
-            }
-        });
-    };
-</script>
+        <a-marker type="pattern" url="patterns/pattern-marker.patt">
+            <a-entity
+            position="0 0 0"
+            scale="0.5 0.5 0.5"
+            obj-model="obj: url(media/testIMG.obj);mtl: url(media/testIMG.mtl);"
+            > </a-entity>
+        </a-marker>
 
-<style>
-    .arjs-loader {
-        height: 100%;
-        width: 100%;
-        position: absolute;
-        top: 0;
-        left: 0;
-        background-color: rgba(0, 0, 0, 0.8);
-        z-index: 9999;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .arjs-loader div {
-        text-align: center;
-        font-size: 1.25em;
-        color: white;
-    }
-</style>
-
-<body style='margin : 0px; overflow: hidden;'>
-    <div class="arjs-loader">
-        <div>Loading, please wait...</div>
-    </div>
-    <a-scene
-        vr-mode-ui="enabled: false;"
-        renderer='antialias: true; alpha: true; precision: medium;'
-        embedded arjs='trackingMethod: best; sourceType: webcam; debugUIEnabled: false;'>
-
-        <a-assets>
-            <video src="https://github.com/dentro-il-museo/dentro-il-museo.github.io/blob/9b45fa363128f94a515dfbdec5a9f591648f0cef/video/sintel.mp4"
-                preload="auto" id="vid" response-type="arraybuffer" loop
-                crossorigin webkit-playsinline autoplay muted playsinline>
-            </video>
-        </a-assets>
-
-        <a-nft
-            videohandler
-            type='nft' url='patterns/pattern-marker.patt'
-            smooth="true" smoothCount="10" smoothTolerance="0.01" smoothThreshold="5"
-        >
-            <a-video
-                src="#vid"
-                position='50 155 -100'
-                rotation='90 0 180'
-                width='300'
-                height='175'
-                >
-            </a-video>
-        </a-nft>
-		<a-entity camera></a-entity>
+        <a-entity camera></a-entity>
+	    
 	</a-scene>
+	
+	  <a-scene>
+            <a-assets>
+                <video id="video" src="video/Video.mp4" webkit-playsinline>
+            </a-assets>
+
+            <a-camera position="0 7 5">
+                <a-cursor color="#FF0000">
+            </a-camera>
+
+            <a-video src="#video" width="16" height="9" position="0 0 0"></a-video>
+        </a-scene>
+
 </body>
+</html>
